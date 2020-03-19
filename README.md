@@ -25,6 +25,7 @@ A list of games that can be played online with a group of people. This list shou
 - [18xx](http://www.rr18xx.com/)
 - [Play Agricola](https://playagricola.com/)
 - [Horsepaste](https://www.horsepaste.com/) (Codenames clone)
+- [Skribbl.io](https://skribbl.io/)
 
 ## Physical games that work with a camera
 - Pandemic (Co-op)
