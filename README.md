@@ -38,3 +38,8 @@ A list of games that can be played online with a group of people. This list shou
 
 ## Other ideas
 - [Improv games for videoconferencing](https://github.com/pamelafox/improvlists/blob/master/collections/Improv-games-for-video-conferencing.md)
+
+## Contribute to this list
+1. [Edit this file](https://github.com/MatMoore/online-board-games-and-party-games/edit/master/README.md)
+2. Under commit changes, enter a description of the changes, select "Create a new branch for this commit and start a pull request" and then click "Commit changes"
+3. Wait for the pull request to be approved and merged
