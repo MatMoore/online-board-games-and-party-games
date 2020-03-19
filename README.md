@@ -36,6 +36,11 @@ A list of games that can be played online with a group of people. This list shou
 - Fog of Love
 - Bring Your Own Book 
 
+## Print-and-play games
+- [Canvas](https://drive.google.com/file/d/1Wrs5ZwI5DGXP2U4-EKrAIPU8gW1Ei7RT/view) ([rules](https://drive.google.com/file/d/1xUKX5SY6WW_5pl3JxmWHIHJ65nRDniaH/view))
+- [Crypt](https://drive.google.com/file/d/18HalK6icIftJvSlZ-c8XXx3_4jc6CHsq/view) ([rules](http://roadtoinfamy.com/images/Crypt_rules.pdf))
+- [Afternover](https://drive.google.com/file/d/1QNABumIphVEt3e-yi8xtXk_6_XJtkptU/view) ([rules](http://roadtoinfamy.com/images/Afternova_rules.pdf))
+
 ## Other ideas
 - [Improv games for videoconferencing](https://github.com/pamelafox/improvlists/blob/master/collections/Improv-games-for-video-conferencing.md)
 
