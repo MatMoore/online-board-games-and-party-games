@@ -35,3 +35,6 @@ A list of games that can be played online with a group of people. This list shou
 - Love Letter
 - Fog of Love
 - Bring Your Own Book 
+
+## Other ideas
+- [Improv games for videoconferencing](https://github.com/pamelafox/improvlists/blob/master/collections/Improv-games-for-video-conferencing.md)
