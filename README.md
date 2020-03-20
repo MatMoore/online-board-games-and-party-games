@@ -4,11 +4,10 @@ A list of games that can be played online with a group of people. This list shou
 ## Platforms/game engines
 - [Board Game Arena](https://boardgamearena.com/) (free)
 - [Tabletop simulator](https://www.tabletopsimulator.com/) (paid)
-- [Roll20](https://roll20.net/) (Dungeons & Dragons)
-- [Vassal](http://www.vassalengine.org/)
-- [Boiteajeux](http://www.boiteajeux.net/)
-- [Yucata](https://www.yucata.de/en)
-- [Boardgame core](http://play.boardgamecore.net)
+- [Vassal](http://www.vassalengine.org/) (free)
+- [Boiteajeux](http://www.boiteajeux.net/) (free)
+- [Yucata](https://www.yucata.de/en) (free)
+- [Boardgame core](http://play.boardgamecore.net) (free)
 - [Tabletopia](https://tabletopia.com/) (premium games require a subscription)
 
 ## Games
@@ -26,6 +25,7 @@ A list of games that can be played online with a group of people. This list shou
 - [Play Agricola](https://playagricola.com/)
 - [Horsepaste](https://www.horsepaste.com/) (Codenames clone)
 - [Skribbl.io](https://skribbl.io/)
+- [Roll20](https://roll20.net/) (Dungeons & Dragons)
 
 ## Physical games that work with a camera
 - Pandemic (Co-op)
