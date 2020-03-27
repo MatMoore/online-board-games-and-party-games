@@ -2,13 +2,14 @@
 A list of games that can be played online with a group of people. This list should exclude anything that needs to purchased multiple times to play.
 
 ## Platforms/game engines
-- [Board Game Arena](https://boardgamearena.com/) (free)
+- [Board Game Arena](https://boardgamearena.com/) (freemium)
 - [Tabletop simulator](https://www.tabletopsimulator.com/) (paid)
 - [Vassal](http://www.vassalengine.org/) (free)
 - [Boiteajeux](http://www.boiteajeux.net/) (free)
 - [Yucata](https://www.yucata.de/en) (free)
 - [Boardgame core](http://play.boardgamecore.net) (free)
-- [Tabletopia](https://tabletopia.com/) (premium games require a subscription)
+- [Tabletopia](https://tabletopia.com/) (freemium)
+- [Super Duper Games](http://superdupergames.org/) (free)
 
 ## Games
 - [Epic Mafia](https://epicmafia.com/home)
@@ -16,7 +17,7 @@ A list of games that can be played online with a group of people. This list shou
 - [Pretend you're Xyzzy](https://pyx-2.pretendyoure.xyz/zy/game.jsp) (Cards Against Humanity clone)
 - [Town of Salem](https://www.blankmediagames.com/)
 - [Keep talking and nobody explodes](https://keeptalkinggame.com/) (one person plays the game at a time, the others just need the manual)
-- [Jackbox party games](https://jackboxgames.com/) (one person streams the game, everyone else can connect via phone)
+- [Jackbox party games](https://jackboxgames.com/) ([instructions for playing remotely](https://jackboxgames.com/how-to-play-jackbox-games-with-friends-and-family-remotely/))
 - [Governer of Poker 3](https://www.governorofpoker.com/games/governor-of-poker-3/)
 - [Drawception](https://drawception.com/)
 - [Colonist](https://colonist.io/) (Settlers of Catan clone)
@@ -26,6 +27,9 @@ A list of games that can be played online with a group of people. This list shou
 - [Horsepaste](https://www.horsepaste.com/) (Codenames clone)
 - [Skribbl.io](https://skribbl.io/)
 - [Roll20](https://roll20.net/) (Dungeons & Dragons)
+- [Secret Hitler](https://secret.ethanl.ee/)
+- [Avalon](https://avalon.fun/)
+
 
 ## Physical games that work with a camera
 - Pandemic (Co-op)
