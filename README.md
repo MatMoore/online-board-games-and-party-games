@@ -24,7 +24,7 @@ A list of games that can be played online with a group of people. This list shou
 - [The Crucible](https://thecrucible.online/) (Keyforge)
 - [18xx](http://www.rr18xx.com/)
 - [Play Agricola](https://playagricola.com/)
-- [Horsepaste](https://www.horsepaste.com/) (Codenames clone)
+- [Horsepaste](https://www.horsepaste.com/) or [Kodenames](https://jhil.github.io/kodenames/) or [KodeNames](https://ninjabunny.github.io/KodeNames/) or [Codenames](https://www.thecompletelysurrounded.com/games/code/)
 - [Skribbl.io](https://skribbl.io/)
 - [Roll20](https://roll20.net/) (Dungeons & Dragons)
 - [Secret Hitler](https://secret.ethanl.ee/)
