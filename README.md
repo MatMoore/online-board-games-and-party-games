@@ -29,6 +29,7 @@ A list of games that can be played online with a group of people. This list shou
 - [Roll20](https://roll20.net/) (Dungeons & Dragons)
 - [Secret Hitler](https://secret.ethanl.ee/)
 - [Avalon](https://avalon.fun/)
+- [Scattergories](https://swellgarfo.com/scattergories/)
 
 
 ## Physical games that work with a camera
