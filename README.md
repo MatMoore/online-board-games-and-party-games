@@ -30,6 +30,8 @@ A list of games that can be played online with a group of people. This list shou
 - [Secret Hitler](https://secret.ethanl.ee/)
 - [Avalon](https://avalon.fun/)
 - [Scattergories](https://swellgarfo.com/scattergories/)
+- [Spyfall](https://www.spyfall.app/)
+
 
 
 ## Physical games that work with a camera
