@@ -20,25 +20,30 @@ Many of these games assume you are using a seperate tool to chat. Here are some 
 - [Netgames.io](https://netgames.io/games/) (free)
 
 ## Free group games
-- [Epic Mafia](https://epicmafia.com/home)
-- [Dominion.games](https://dominion.games/)
+### Very simple
 - [Pretend you're Xyzzy](https://pyx-2.pretendyoure.xyz/zy/game.jsp) (Cards Against Humanity clone)
-- [Town of Salem](https://www.blankmediagames.com/)
-- [Keep talking and nobody explodes](https://keeptalkinggame.com/) (one person plays the game at a time, the others just need the manual)
-- [Jackbox party games](https://jackboxgames.com/) ([instructions for playing remotely](https://jackboxgames.com/how-to-play-jackbox-games-with-friends-and-family-remotely/))
-- [Governer of Poker 3](https://www.governorofpoker.com/games/governor-of-poker-3/)
 - [Drawception](https://drawception.com/)
+- [Jackbox party games](https://jackboxgames.com/) ([instructions for playing remotely](https://jackboxgames.com/how-to-play-jackbox-games-with-friends-and-family-remotely/))
+- [Skribbl.io](https://skribbl.io/)
+- [Scattergories](https://swellgarfo.com/scattergories/)
+
+### Easy to explain
+- [Epic Mafia](https://epicmafia.com/home)
+- [Town of Salem](https://www.blankmediagames.com/)
+- [Governer of Poker 3](https://www.governorofpoker.com/games/governor-of-poker-3/)
+- [Keep talking and nobody explodes](https://keeptalkinggame.com/) (one person plays the game at a time, the others just need the manual)
+- [Horsepaste](https://www.horsepaste.com/) or [Kodenames](https://jhil.github.io/kodenames/) or [KodeNames](https://ninjabunny.github.io/KodeNames/) or [Codenames](https://www.thecompletelysurrounded.com/games/code/)
+- [Spyfall](https://www.spyfall.app/)
+- [Avalon](https://avalon.fun/)
+
+### Know the rules first
+- [Secret Hitler](https://secret.ethanl.ee/)
+- [Dominion.games](https://dominion.games/)
 - [Colonist](https://colonist.io/) (Settlers of Catan clone)
 - [The Crucible](https://thecrucible.online/) (Keyforge)
 - [18xx](http://www.rr18xx.com/)
 - [Play Agricola](https://playagricola.com/)
-- [Horsepaste](https://www.horsepaste.com/) or [Kodenames](https://jhil.github.io/kodenames/) or [KodeNames](https://ninjabunny.github.io/KodeNames/) or [Codenames](https://www.thecompletelysurrounded.com/games/code/)
-- [Skribbl.io](https://skribbl.io/)
 - [Roll20](https://roll20.net/) (Dungeons & Dragons)
-- [Secret Hitler](https://secret.ethanl.ee/)
-- [Avalon](https://avalon.fun/)
-- [Scattergories](https://swellgarfo.com/scattergories/)
-- [Spyfall](https://www.spyfall.app/)
 
 ## Free two player games
 - [Chess with video chat](https://rootshirechess.glitch.me/)
