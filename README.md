@@ -1,5 +1,12 @@
 # Online board games and party games
-A list of games that can be played online with a group of people. This list should exclude anything that needs to purchased multiple times to play.
+A list of games that can be played online with a group of friends.
+
+## Voice chat suggestions
+Many of these games assume you are using a seperate tool to chat. Here are some free tools you can use:
+
+- [Discord](https://discordapp.com/) - multiple text/voice channels that you can join and leave at any time
+- [Google Hangouts](https://hangouts.google.com/) - a temporary video meeting with a shareable link, no need to install anything, but requires a google account to set up
+- [Zoom](https://zoom.us/) - a temporary video meeting, easy for other people to join without signing up, but you may need to restart the call every 40 minutes
 
 ## Platforms/game engines
 - [Board Game Arena](https://boardgamearena.com/) (freemium)
@@ -10,8 +17,9 @@ A list of games that can be played online with a group of people. This list shou
 - [Boardgame core](http://play.boardgamecore.net) (free)
 - [Tabletopia](https://tabletopia.com/) (freemium)
 - [Super Duper Games](http://superdupergames.org/) (free)
+- [Netgames.io](https://netgames.io/games/) (free)
 
-## Games
+## Free group games
 - [Epic Mafia](https://epicmafia.com/home)
 - [Dominion.games](https://dominion.games/)
 - [Pretend you're Xyzzy](https://pyx-2.pretendyoure.xyz/zy/game.jsp) (Cards Against Humanity clone)
@@ -32,11 +40,13 @@ A list of games that can be played online with a group of people. This list shou
 - [Scattergories](https://swellgarfo.com/scattergories/)
 - [Spyfall](https://www.spyfall.app/)
 
-
+## Free two player games
+- [Chess with video chat](https://rootshirechess.glitch.me/)
+- [Online Go Server](https://online-go.com/)
 
 ## Physical games that work with a camera
 - Pandemic (Co-op)
-- Santorini
+- Santorini ([rules](https://www.ultraboardgames.com/santorini/game-rules.php))
 - Welcome To...
 - Seikatsu
 - Shobu
