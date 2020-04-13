@@ -18,36 +18,56 @@ Many of these games assume you are using a seperate tool to chat. Here are some 
 - [Tabletopia](https://tabletopia.com/) (freemium)
 - [Super Duper Games](http://superdupergames.org/) (free)
 - [Netgames.io](https://netgames.io/games/) (free)
+- [BrettspielWelt](http://www.brettspielwelt.de/Spiele/) (free)
+- [Free Board Games](https://www.freeboardgames.org/) (free)
+- [Games by Email](http://gamesbyemail.com/) (free)
 
 ## Free group games
 ### Very simple
-- [Pretend you're Xyzzy](https://pyx-2.pretendyoure.xyz/zy/game.jsp) (Cards Against Humanity clone)
+These games are easy to understand even if nobody has played before.
+
+- [Pretend you're Xyzzy](https://pyx-2.pretendyoure.xyz/zy/game.jsp) or [All Bad Cards](https://allbad.cards/) or [Massive Decks](https://md.rereadgames.com/#new) (Cards Against Humanity)
 - [Drawception](https://drawception.com/)
 - [Jackbox party games](https://jackboxgames.com/) ([instructions for playing remotely](https://jackboxgames.com/how-to-play-jackbox-games-with-friends-and-family-remotely/))
 - [Skribbl.io](https://skribbl.io/)
-- [Scattergories](https://swellgarfo.com/scattergories/)
+- [Scattergories](https://swellgarfo.com/scattergories/) or [Categories with Friends](https://categories-with-friends.herokuapp.com/)
+- [Quack Stanley](https://quackstanley.net/)
+- [Just 1](https://just1.herokuapp.com/#)
 
 ### Easy to explain
-- [Epic Mafia](https://epicmafia.com/home)
-- [Town of Salem](https://www.blankmediagames.com/)
+These games are easy to explain but best if someone knows the game already.
+
+- [Epic Mafia](https://epicmafia.com/home) or [Werewolf Online](https://werewolv.es/) or [Town of Salem](https://www.blankmediagames.com/)
 - [Governer of Poker 3](https://www.governorofpoker.com/games/governor-of-poker-3/)
 - [Keep talking and nobody explodes](https://keeptalkinggame.com/) (one person plays the game at a time, the others just need the manual)
 - [Horsepaste](https://www.horsepaste.com/) or [Kodenames](https://jhil.github.io/kodenames/) or [KodeNames](https://ninjabunny.github.io/KodeNames/) or [Codenames](https://www.thecompletelysurrounded.com/games/code/)
-- [Spyfall](https://www.spyfall.app/)
-- [Avalon](https://avalon.fun/)
+- [Spyfall](https://www.spyfall.app/) or [Spyfall](https://spyfall.adrianocola.com/)
+- [Avalon](https://avalon.fun/) or [Avalon: The Resistance Online](https://avalongame.online/)
+- [Coup](https://coup.thebrown.net/)
+- [Spendee](https://spendee.mattle.online/welcome) (Splendor)
+- [Telewave](https://gjeuken.github.io/telewave/) (Wavelength)
+- [Hanabi](https://hanabi.cards/)
 
 ### Know the rules first
-- [Secret Hitler](https://secret.ethanl.ee/)
+These games have more complicated rules that will take some time to explain to new players.
+
+- [Secret Hitler](https://secret.ethanl.ee/) or [Secret Hitler](https://secrethitler.io/)
 - [Dominion.games](https://dominion.games/)
+- [Gemp LotR](http://www.gempukku.com/gemp-lotr/) (Lord of the Rings Collectible Card Game)
 - [Colonist](https://colonist.io/) (Settlers of Catan clone)
 - [The Crucible](https://thecrucible.online/) (Keyforge)
 - [18xx](http://www.rr18xx.com/)
 - [Play Agricola](https://playagricola.com/)
 - [Roll20](https://roll20.net/) (Dungeons & Dragons)
+- [Outpost 18](https://outpost18.netlify.com/)
+- [Swords and Ravens](https://swordsandravens.net/) (Game of Thrones Board Game)
+- [Online Terra Mystica](https://terra.snellman.net/)
 
 ## Free two player games
 - [Chess with video chat](https://rootshirechess.glitch.me/)
 - [Online Go Server](https://online-go.com/)
+- [Codenames Green](https://www.codenamesgreen.com/) (Cooperative version of codenames)
+- [Jinteki](https://www.jinteki.net/) (Android: Netrunner)
 
 ## Physical games that work with a camera
 - Pandemic (Co-op)
