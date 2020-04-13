@@ -9,14 +9,14 @@ Many of these games assume you are using a seperate tool to chat. Here are some 
 - [House party](https://houseparty.com/) comes with a few games built in
 - [Zoom](https://zoom.us/) - a temporary video meeting, easy for other people to join without signing up, but you may need to restart the call every 40 minutes
 
-## Platforms/game engines
+## Platforms
+These websites contain multiple games.
+
 - [Board Game Arena](https://boardgamearena.com/) (freemium)
-- [Tabletop simulator](https://www.tabletopsimulator.com/) (paid)
 - [Vassal](http://www.vassalengine.org/) (free)
 - [Boiteajeux](http://www.boiteajeux.net/) (free)
 - [Yucata](https://www.yucata.de/en) (free)
 - [Boardgame core](http://play.boardgamecore.net) (free)
-- [Tabletopia](https://tabletopia.com/) (freemium)
 - [Super Duper Games](http://superdupergames.org/) (free)
 - [Netgames.io](https://netgames.io/games/) (free)
 - [BrettspielWelt](http://www.brettspielwelt.de/Spiele/) (free)
@@ -32,6 +32,17 @@ Many of these games assume you are using a seperate tool to chat. Here are some 
 - [It's your turn](https://itsyourturn.com/)
 - [Board Games Online](https://www.michaelschacht.net/pbm/modules.php?name=Game_Info)
 - [Mattle](https://mattle.online/)
+- [Triqqy](https://triqqy.com/)
+- [Playoq](https://www.playok.com/)
+- [Trickster Cards](https://www.trickstercards.com/)
+
+## Game pieces
+These simulate game pieces but not the rules of the game.
+
+- [Tabletop simulator](https://www.tabletopsimulator.com/) (paid)
+- [Tabletopia](https://tabletopia.com/) (freemium)
+- [Deck of Cards](https://deck.of.cards/)
+- [Random Noun Generator](https://kevan.org/games/randomnoun)
 
 ## Free group games
 ### Very simple
@@ -48,6 +59,7 @@ These games are easy to understand even if nobody has played before.
 - [Uno](https://play.unofreak.com/)
 - [Scrabble](https://www.isc.ro/)
 - [Skull](https://skull.games/)
+- [Taboo](https://playtaboo.com/)
 
 ### Easy to explain
 These games are easy to explain but best if someone knows the game already.
@@ -68,6 +80,8 @@ These games are easy to explain but best if someone knows the game already.
 - [Hanabi](https://hanabi.cards/)
 - [Conquer Club](https://www.conquerclub.com/) (Risk)
 - [Deception: Murder in Hong Kong](https://ninjabunny.github.io/mihk/)
+- [Set](https://setwithfriends.com/)
+- [Decrypto](https://whoawhoa.github.io/decrypto/)
 
 ### Know the rules first
 These games have more complicated rules that will take some time to explain to new players.
@@ -84,11 +98,14 @@ These games have more complicated rules that will take some time to explain to n
 - [Swords and Ravens](https://swordsandravens.net/) (Game of Thrones Board Game)
 - [Online Terra Mystica](https://terra.snellman.net/)
 - [Brass](http://brass.orderofthehammer.com/)
-- [Diplomacy](https://www.playdiplomacy.com/)
+- [Diplomacy](https://www.playdiplomacy.com/) or [Backstabbr](https://www.backstabbr.com/)
 - [Innovation](https://innovation.isotropic.org/)
 - [Bridge](http://www.bridgebase.com)
 - [Citadels of Achiles](http://ciudadelas.net/content)
 - [Azul](https://azee.mattle.online/)
+- [Acquire](https://acquire.tlstyer.com/)
+- [Advanced Civilization](http://civ.rol-play.com/ahciv/login.php?horde_logout_token=kv1N0-WAvzDvlBixm1FXdf_PpMw&app=horde)
+- [Shadow Hunters](http://www.shadowhunters.live/)
 
 ## Free two player games
 - [Chess with video chat](https://rootshirechess.glitch.me/) or [Chess.com](https://www.chess.com/)
@@ -103,6 +120,10 @@ These games have more complicated rules that will take some time to explain to n
 - [Onitama](http://onitama.lannysport.net/)
 - [Tak](http://playtak.com/)
 - [Yahtzee](https://cardgames.io/yahtzee/)
+
+## Trivia games
+- [Protobowl](https://protobowl.com/)
+- [QuizWitz](https://www.quizwitz.com/en/party)
 
 ## Physical games that work with a camera
 - Pandemic (Co-op)
