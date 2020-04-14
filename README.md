@@ -125,7 +125,16 @@ These games have more complicated rules that will take some time to explain to n
 - [Protobowl](https://protobowl.com/)
 - [QuizWitz](https://www.quizwitz.com/en/party)
 
-## Physical games that work with a camera
+## Physical games that can be adapted for remote play
+To adapt these games for remote play:
+
+- use a camera to share publicly visible information (or hidden information before the game starts)
+- the person with the camera can move pieces on behalf of the other players and read out information
+- you can also share pictures/scans of things players need to read as part of the game in advance
+- players may need to keep track of additional information themselves (e.g. on paper)
+- you can label grids to make it easier for remote players to call out where they want to play
+
+### Only one person needs to own a copy
 - Pandemic (Co-op)
 - Santorini ([rules](https://www.ultraboardgames.com/santorini/game-rules.php))
 - Welcome To...
@@ -133,9 +142,30 @@ These games have more complicated rules that will take some time to explain to n
 - Shobu
 - Love Letter
 - Fog of Love
-- Bring Your Own Book 
+- Bring Your Own Book
+- On Tour
+- Ganz Schön Clever
+- Karuba
+- Camel Up
+- Trails of Tucana
+- Legacy of Dragonholt
+- Concept
+- Mysterium
+- Coloretto
+- Hive
+- Chronicles of Crime
+- Longhorn
+- Incan Gold/Diamant
+- Pluckin' Pairs
+- Codenames
+- Just One
+- Onitama
+- Wavelength
 
-## Print-and-play games (may require adapting for online play)
+### Everybody needs their own copy
+- Unmatched
+
+### Print-and-play games
 - [Canvas](https://drive.google.com/file/d/1Wrs5ZwI5DGXP2U4-EKrAIPU8gW1Ei7RT/view) ([rules](https://drive.google.com/file/d/1xUKX5SY6WW_5pl3JxmWHIHJ65nRDniaH/view))
 - [Crypt](https://drive.google.com/file/d/18HalK6icIftJvSlZ-c8XXx3_4jc6CHsq/view) ([rules](http://roadtoinfamy.com/images/Crypt_rules.pdf))
 - [Afternover](https://drive.google.com/file/d/1QNABumIphVEt3e-yi8xtXk_6_XJtkptU/view) ([rules](http://roadtoinfamy.com/images/Afternova_rules.pdf))
