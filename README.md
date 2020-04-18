@@ -42,6 +42,7 @@ These simulate game pieces but not the rules of the game.
 - [Tabletop simulator](https://www.tabletopsimulator.com/) (paid)
 - [Tabletopia](https://tabletopia.com/) (freemium)
 - [Deck of Cards](https://deck.of.cards/)
+- [Playingcards.io](http://playingcards.io/game/standard-deck) (allows customising the deck)
 - [Random Noun Generator](https://kevan.org/games/randomnoun)
 - [Board game clock](https://clock.mattle.online/)
 
@@ -90,7 +91,7 @@ These games have more complicated rules that will take some time to explain to n
 - [Secret Hitler](https://secret.ethanl.ee/) or [Secret Hitler](https://secrethitler.io/)
 - [Dominion.games](https://dominion.games/)
 - [The Iron Throne](https://theironthrone.net/) or [Gemp LotR](http://www.gempukku.com/gemp-lotr/) (Lord of the Rings Living Card Game)
-- [Colonist](https://colonist.io/) (Settlers of Catan clone)
+- [Colonist](https://colonist.io/) or [Catan Universe](https://catanuniverse.com/game/) (Settlers of Catan)
 - [The Crucible](https://thecrucible.online/) (Keyforge)
 - [18xx](http://www.rr18xx.com/) or [Board 18](https://dev2.board18.org/)
 - [Play Agricola](https://playagricola.com/)
@@ -125,6 +126,7 @@ These games have more complicated rules that will take some time to explain to n
 ## Trivia games
 - [Protobowl](https://protobowl.com/)
 - [QuizWitz](https://www.quizwitz.com/en/party)
+- [Virtual Pub Quiz](https://virtualquiz.app/) (create or play pub quizzes)
 
 ## Physical games that can be adapted for remote play
 To adapt these games for remote play:
