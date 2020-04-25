@@ -58,7 +58,7 @@ These games are easy to understand even if nobody has played before.
 - [Broken Picture Phone](https://www.brokenpicturephone.com/) or [Drawphone](https://drawphone.tannerkrewson.com/)
 - [Quack Stanley](https://quackstanley.net/)
 - [Just 1](https://just1.herokuapp.com/#) or [One Word](https://oneword.games/)
-- [Uno](https://play.unofreak.com/)
+- [Uno](https://playuno.app/#/)
 - [Scrabble](https://www.isc.ro/)
 - [Skull](https://skull.games/)
 - [Taboo](https://playtaboo.com/)
