@@ -168,6 +168,7 @@ To adapt these games for remote play:
 
 ### Everybody needs their own copy
 - Unmatched
+- Magic: The Gathering (with [Spell Table](https://www.spelltable.com/))
 
 ### Print-and-play games
 - [Canvas](https://drive.google.com/file/d/1Wrs5ZwI5DGXP2U4-EKrAIPU8gW1Ei7RT/view) ([rules](https://drive.google.com/file/d/1xUKX5SY6WW_5pl3JxmWHIHJ65nRDniaH/view))
