@@ -35,6 +35,7 @@ These websites contain multiple games.
 - [Triqqy](https://triqqy.com/)
 - [Playoq](https://www.playok.com/)
 - [Trickster Cards](https://www.trickstercards.com/)
+- [Boardgames](https://boardgames.gigalixirapp.com/)
 
 ## Game pieces
 These simulate game pieces but not the rules of the game.
@@ -54,14 +55,14 @@ These games are easy to understand even if nobody has played before.
 - [Drawception](https://drawception.com/)
 - [Jackbox party games](https://jackboxgames.com/) ([instructions for playing remotely](https://jackboxgames.com/how-to-play-jackbox-games-with-friends-and-family-remotely/))
 - [Skribbl](https://skribbl.io/) or [Sketchful](https://sketchful.io/) or [Gartic](https://gartic.io/) (Guess the drawing)
-- [Scattergories](https://swellgarfo.com/scattergories/) or [Categories with Friends](https://categories-with-friends.herokuapp.com/)
+- [Scattergories](https://boardgames.gigalixirapp.com/) or [Scattergories](https://swellgarfo.com/scattergories/) or [Categories with Friends](https://categories-with-friends.herokuapp.com/)
 - [Broken Picture Phone](https://www.brokenpicturephone.com/) or [Drawphone](https://drawphone.tannerkrewson.com/)
 - [Quack Stanley](https://quackstanley.net/)
 - [Just 1](https://just1.herokuapp.com/#) or [One Word](https://oneword.games/)
 - [Uno](https://play.unofreak.com/)
 - [Scrabble](https://www.isc.ro/)
 - [Skull](https://skull.games/)
-- [Taboo](https://playtaboo.com/)
+- [Taboo](https://boardgames.gigalixirapp.com/) or [Taboo](https://playtaboo.com/)
 
 ### Easy to explain
 These games are easy to explain but best if someone knows the game already.
@@ -70,7 +71,7 @@ These games are easy to explain but best if someone knows the game already.
 - [One Night Ultimate Werewolf](https://netgames.io/games/onu-werewolf/)
 - [Governer of Poker 3](https://www.governorofpoker.com/games/governor-of-poker-3/) or [Blockchain Poker](https://blockchain.poker/#/)
 - [Keep talking and nobody explodes](https://keeptalkinggame.com/) (one person plays the game at a time, the others just need the manual)
-- [Codenames](https://captnemo.in/codenames/) or [Horsepaste](https://www.horsepaste.com/) or [Kodenames](https://jhil.github.io/kodenames/) or [KodeNames](https://ninjabunny.github.io/KodeNames/) or [Codenames](https://www.thecompletelysurrounded.com/games/code/)
+- [Codenames](https://boardgames.gigalixirapp.com/) or [Codenames](https://captnemo.in/codenames/) or [Horsepaste](https://www.horsepaste.com/) or [Kodenames](https://jhil.github.io/kodenames/) or [KodeNames](https://ninjabunny.github.io/KodeNames/) or [Codenames](https://www.thecompletelysurrounded.com/games/code/)
 - [Codenames Pictures](https://codenames.dport.me/)
 - [Spyfall](https://www.spyfall.app/) or [Spyfall](https://spyfall.adrianocola.com/)
 - [Fake Artist Online](https://kc-fakeartistonline.herokuapp.com/) (Fake Artist Goes to New York)
