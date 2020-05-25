@@ -46,6 +46,8 @@ These simulate game pieces but not the rules of the game.
 - [Playingcards.io](http://playingcards.io/game/standard-deck) (allows customising the deck)
 - [Random Noun Generator](https://kevan.org/games/randomnoun)
 - [Board game clock](https://clock.mattle.online/)
+- [Abstract Games in Google Slides](https://docs.google.com/presentation/d/1lf0O4y_WJ5p9v4u_LykQrApLXJGO5vnbgBJoXtfo1To/edit). ([Google Drawings](https://docs.google.com/drawings/u/0/create) can also be used this way)
+
 
 ## Free group games
 ### Very simple
@@ -63,12 +65,16 @@ These games are easy to understand even if nobody has played before.
 - [Scrabble](https://www.isc.ro/)
 - [Skull](https://skull.games/)
 - [Taboo](https://boardgames.gigalixirapp.com/) or [Taboo](https://playtaboo.com/)
+- [Anagram thief](http://anagrams.jonmarkgo.com/) (anagrams)
+- [Taboo](https://playtaboo.com/playpage)
+- [Fishbowl](https://fishbowl-game.com/) (taboo, charades, password)
 
 ### Easy to explain
 These games are easy to explain but best if someone knows the game already.
 
 - [Epic Mafia](https://epicmafia.com/home) or [Werewolf Online](https://werewolv.es/) or [Town of Salem](https://www.blankmediagames.com/) or [Mafia.gg](https://mafia.gg/)
 - [One Night Ultimate Werewolf](https://netgames.io/games/onu-werewolf/)
+- [Shadow Hunters](http://www.shadowhunters.live/)
 - [Governer of Poker 3](https://www.governorofpoker.com/games/governor-of-poker-3/) or [Blockchain Poker](https://blockchain.poker/#/)
 - [Keep talking and nobody explodes](https://keeptalkinggame.com/) (one person plays the game at a time, the others just need the manual)
 - [Codenames](https://boardgames.gigalixirapp.com/) or [Codenames](https://captnemo.in/codenames/) or [Horsepaste](https://www.horsepaste.com/) or [Kodenames](https://jhil.github.io/kodenames/) or [KodeNames](https://ninjabunny.github.io/KodeNames/) or [Codenames](https://www.thecompletelysurrounded.com/games/code/)
@@ -77,7 +83,7 @@ These games are easy to explain but best if someone knows the game already.
 - [Fake Artist Online](https://kc-fakeartistonline.herokuapp.com/) (Fake Artist Goes to New York)
 - [Avalon](https://avalon.fun/) or [Avalon: The Resistance Online](https://avalongame.online/)
 - [The Resistance](http://www.theresistanceplus.com/)
-- [Coup](https://coup.thebrown.net/)
+- [Coup](https://coup.thebrown.net/) or [Chicken Koup](https://www.chickenkoup.com/)
 - [Spendee](https://spendee.mattle.online/welcome) (Splendor)
 - [Telewave](https://gjeuken.github.io/telewave/) (Wavelength)
 - [Hanabi](https://hanabi.cards/)
