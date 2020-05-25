@@ -46,7 +46,7 @@ These simulate game pieces but not the rules of the game.
 - [Playingcards.io](http://playingcards.io/game/standard-deck) (allows customising the deck)
 - [Random Noun Generator](https://kevan.org/games/randomnoun)
 - [Board game clock](https://clock.mattle.online/)
-- [Abstract Games in Google Slides](https://docs.google.com/presentation/d/1lf0O4y_WJ5p9v4u_LykQrApLXJGO5vnbgBJoXtfo1To/edit). ([Google Drawings](https://docs.google.com/drawings/u/0/create) can also be used this way)
+- [Abstract Games in Google Slides](https://docs.google.com/presentation/d/1lf0O4y_WJ5p9v4u_LykQrApLXJGO5vnbgBJoXtfo1To/edit) ([Google Drawings](https://docs.google.com/drawings/u/0/create) can also be used this way)
 
 
 ## Free group games
