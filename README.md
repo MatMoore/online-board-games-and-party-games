@@ -6,6 +6,7 @@ Many of these games assume you are using a seperate tool to chat. Here are some 
 
 - [Discord](https://discordapp.com/) - multiple text/voice channels that you can join and leave at any time
 - [Google Hangouts](https://hangouts.google.com/) - a temporary video meeting with a shareable link, no need to install anything, but requires a google account to set up
+- [Jitsi](https://meet.jit.si/) - similar to Google Hangouts but no account required
 - [House party](https://houseparty.com/) comes with a few games built in
 - [Zoom](https://zoom.us/) - a temporary video meeting, easy for other people to join without signing up, but you may need to restart the call every 40 minutes
 
@@ -171,12 +172,19 @@ To adapt these games for remote play:
 - Just One
 - Onitama
 - Wavelength
+- Cartographers: A Roll Player Tale
+- Corinth
+- Deep Sea Adventure
+- Azul
 
 ### Everybody needs their own copy
 - Unmatched
 - Magic: The Gathering (with [Spell Table](https://www.spelltable.com/))
 
 ### Print-and-play games
+- [Love Letter: Sender](https://www.zmangames.com/en/products/love-letter-sender/)
+- [Dixit](https://print-and-play.asmodee.fun/dixit/)
+- [Bullfrogs](https://www.thunderworksgames.com/download-bullfrogs.html)
 - [Canvas](https://drive.google.com/file/d/1Wrs5ZwI5DGXP2U4-EKrAIPU8gW1Ei7RT/view) ([rules](https://drive.google.com/file/d/1xUKX5SY6WW_5pl3JxmWHIHJ65nRDniaH/view))
 - [Crypt](https://drive.google.com/file/d/18HalK6icIftJvSlZ-c8XXx3_4jc6CHsq/view) ([rules](http://roadtoinfamy.com/images/Crypt_rules.pdf))
 - [Afternover](https://drive.google.com/file/d/1QNABumIphVEt3e-yi8xtXk_6_XJtkptU/view) ([rules](http://roadtoinfamy.com/images/Afternova_rules.pdf))
@@ -186,6 +194,12 @@ To adapt these games for remote play:
 - [Merkez](https://boardgamegeek.com/boardgame/281190/merkez)
 - [KÖY](https://boardgamegeek.com/boardgame/299687/koy)
 - [Buddha](https://boardgamegeek.com/boardgame/297639/buddha)
+- [Corinth](https://drive.google.com/drive/folders/1juhTYboh6Qoh3ENwl07tYrY_lu1gKG5g)
+- [Battle for Moscow](https://www.c3iopscenter.com/pages/wargame-room-store/#!/C3i-Nr25-eBook-Edition/p/136922625/category=33205167)
+- [The Fantasy Trip: Melee](http://www.warehouse23.com/products/SJG30-3452)
+- [Rolling Realms](https://stonemaiergames.com/games/rolling-realms/)
+- [Food Fighters](https://b9dd93bb-2507-48b3-adac-25f1d7a6998b.filesusr.com/ugd/69e02c_cb2ad68b56484cf7ad00a4c62c8b0d43.pdf) ([rules](https://b9dd93bb-2507-48b3-adac-25f1d7a6998b.filesusr.com/ugd/69e02c_922d17e828be484a8802ac13ba820340.pdf))
+- [Cards Against Humanity Family Edition](https://www.cardsagainsthumanityfamilyedition.com/)
 
 ## Other ideas
 - [Improv games for videoconferencing](https://github.com/pamelafox/improvlists/blob/master/collections/Improv-games-for-video-conferencing.md)
