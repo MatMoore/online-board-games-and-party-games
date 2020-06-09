@@ -116,6 +116,7 @@ These games have more complicated rules that will take some time to explain to n
 - [Acquire](https://acquire.tlstyer.com/)
 - [Advanced Civilization](http://civ.rol-play.com/ahciv/login.php?horde_logout_token=kv1N0-WAvzDvlBixm1FXdf_PpMw&app=horde)
 - [Shadow Hunters](http://www.shadowhunters.live/)
+- [Rojo](http://boardwebgames.com/rojomulti/) (Azul)
 
 ## Free two player games
 - [Chess with video chat](https://rootshirechess.glitch.me/) or [Chess.com](https://www.chess.com/)
