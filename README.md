@@ -53,7 +53,8 @@ These simulate game pieces but not the rules of the game.
 ## Free group games
 ### Very simple
 These games are easy to understand even if nobody has played before.
-
+- [A Fake Artist Goes to New-York](https://fake-artist.herokuapp.com/) (or [Fake Artist Online](https://kc-fakeartistonline.herokuapp.com/))
+- [Insider](https://insider-online.herokuapp.com/)
 - [Pretend you're Xyzzy](https://pyx-2.pretendyoure.xyz/zy/game.jsp) or [All Bad Cards](https://allbad.cards/) or [Massive Decks](https://md.rereadgames.com/#new) (Cards Against Humanity)
 - [Drawception](https://drawception.com/)
 - [Jackbox party games](https://jackboxgames.com/) ([instructions for playing remotely](https://jackboxgames.com/how-to-play-jackbox-games-with-friends-and-family-remotely/))
@@ -81,7 +82,6 @@ These games are easy to explain but best if someone knows the game already.
 - [Codenames](https://boardgames.gigalixirapp.com/) or [Codenames](https://captnemo.in/codenames/) or [Horsepaste](https://www.horsepaste.com/) or [Kodenames](https://jhil.github.io/kodenames/) or [KodeNames](https://ninjabunny.github.io/KodeNames/) or [Codenames](https://www.thecompletelysurrounded.com/games/code/)
 - [Codenames Pictures](https://codenames.dport.me/)
 - [Spyfall](https://www.spyfall.app/) or [Spyfall](https://spyfall.adrianocola.com/)
-- [Fake Artist Online](https://kc-fakeartistonline.herokuapp.com/) (Fake Artist Goes to New York)
 - [Avalon](https://avalon.fun/) or [Avalon: The Resistance Online](https://avalongame.online/)
 - [The Resistance](http://www.theresistanceplus.com/)
 - [Coup](https://coup.thebrown.net/) or [Chicken Koup](https://www.chickenkoup.com/)
