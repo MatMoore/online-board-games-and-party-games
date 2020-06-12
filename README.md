@@ -53,7 +53,7 @@ These simulate game pieces but not the rules of the game.
 ## Free group games
 ### Very simple
 These games are easy to understand even if nobody has played before.
-- [A Fake Artist Goes to New-York](https://fake-artist.herokuapp.com/) (or [Fake Artist Online](https://kc-fakeartistonline.herokuapp.com/))
+- [A Fake Artist Goes to New-York](https://fake-artist.herokuapp.com/)
 - [Insider](https://insider-online.herokuapp.com/)
 - [Pretend you're Xyzzy](https://pyx-2.pretendyoure.xyz/zy/game.jsp) or [All Bad Cards](https://allbad.cards/) or [Massive Decks](https://md.rereadgames.com/#new) (Cards Against Humanity)
 - [Drawception](https://drawception.com/)
