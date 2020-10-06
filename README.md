@@ -137,14 +137,14 @@ These games have more complicated rules that will take some time to explain to n
 - [QuizWitz](https://www.quizwitz.com/en/party)
 - [Virtual Pub Quiz](https://virtualquiz.app/) (create or play pub quizzes)
 
-## Physical games that can be adapted for remote play
+## Games that can be adapted for remote play
 To adapt these games for remote play:
 
 - use a camera to share publicly visible information (or hidden information before the game starts)
-- the person with the camera can move pieces on behalf of the other players and read out information
-- you can also share pictures/scans of things players need to read as part of the game in advance
+- share pictures/scans of things players need to read as part of the game in advance
+- one person may need to move pieces on behalf of the other players and read out information
 - players may need to keep track of additional information themselves (e.g. on paper)
-- you can label grids to make it easier for remote players to call out where they want to play
+- label grids to make it easier for remote players to call out where they want to play
 
 ### Only one person needs to own a copy
 - Pandemic (Co-op)
@@ -203,6 +203,7 @@ To adapt these games for remote play:
 - [Cards Against Humanity Family Edition](https://www.cardsagainsthumanityfamilyedition.com/)
 
 ## Other ideas
+- [Freeze-dried Game Pack](https://kevan.org/fdgp/) - a collection of games that use common components and can be explained in less than 100 words
 - [Improv games for videoconferencing](https://github.com/pamelafox/improvlists/blob/master/collections/Improv-games-for-video-conferencing.md)
 - [The Wiki Game](https://www.thewikigame.com/)
 
