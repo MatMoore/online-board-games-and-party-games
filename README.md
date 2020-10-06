@@ -71,7 +71,6 @@ These games are easy to understand even if nobody has played before.
 | [Skull](https://skull.games/) | 3-6 | https://www.boardgamegeek.com/boardgame/92415/skull |
 | [Taboo](https://boardgames.gigalixirapp.com/) or [Taboo](https://playtaboo.com/) | 4-10 | https://www.boardgamegeek.com/boardgame/1111/taboo |
 | [Anagram thief](http://anagrams.jonmarkgo.com/) (anagrams) | 2-6 | https://www.boardgamegeek.com/boardgame/3359/anagrams |
-| [Taboo](https://playtaboo.com/playpage) | 
 | [Fishbowl](https://fishbowl-game.com/) (taboo, charades, password) | | |
 
 ### Easy to explain
