@@ -92,6 +92,7 @@ These games are easy to explain but best if someone knows the game already.
 - [Deception: Murder in Hong Kong](https://ninjabunny.github.io/mihk/)
 - [Set](https://setwithfriends.com/)
 - [Decrypto](https://whoawhoa.github.io/decrypto/)
+- [Egyptian Ratscrew](https://playcards.club/)
 
 ### Know the rules first
 These games have more complicated rules that will take some time to explain to new players.
