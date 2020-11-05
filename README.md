@@ -53,23 +53,24 @@ These simulate game pieces but not the rules of the game.
 ## Free group games
 ### Very simple
 These games are easy to understand even if nobody has played before.
-- [A Fake Artist Goes to New-York](https://fake-artist.herokuapp.com/)
-- [Insider](https://insider-online.herokuapp.com/)
-- [Pretend you're Xyzzy](https://pyx-2.pretendyoure.xyz/zy/game.jsp) or [All Bad Cards](https://allbad.cards/) or [Massive Decks](https://md.rereadgames.com/#new) or [Cards of Personality](https://cardsofpersonality.com) (Cards Against Humanity)
-- [Drawception](https://drawception.com/)
-- [Jackbox party games](https://jackboxgames.com/) ([instructions for playing remotely](https://jackboxgames.com/how-to-play-jackbox-games-with-friends-and-family-remotely/))
-- [Skribbl](https://skribbl.io/) or [Sketchful](https://sketchful.io/) or [Gartic](https://gartic.io/) (Guess the drawing)
-- [Scattergories](https://boardgames.gigalixirapp.com/) or [Scattergories](https://swellgarfo.com/scattergories/) or [Categories with Friends](https://categories-with-friends.herokuapp.com/)
-- [Broken Picture Phone](https://www.brokenpicturephone.com/) or [Drawphone](https://drawphone.tannerkrewson.com/)
-- [Quack Stanley](https://quackstanley.net/)
-- [Just 1](https://just1.herokuapp.com/#) or [One Word](https://oneword.games/)
-- [Uno](https://play.unofreak.com/)
-- [Scrabble](https://www.isc.ro/)
-- [Skull](https://skull.games/)
-- [Taboo](https://boardgames.gigalixirapp.com/) or [Taboo](https://playtaboo.com/)
-- [Anagram thief](http://anagrams.jonmarkgo.com/) (anagrams)
-- [Taboo](https://playtaboo.com/playpage)
-- [Fishbowl](https://fishbowl-game.com/) (taboo, charades, password)
+
+| Game | Alternatives | Player count | Board Game Geek Page |
+| --- | --- | --- | --- |
+| [A Fake Artist Goes to New-York](https://fake-artist.herokuapp.com/) | | 5-10 | https://www.boardgamegeek.com/boardgame/135779/fake-artist-goes-new-york |
+| [Anagram thief](http://anagrams.jonmarkgo.com/) (anagrams) | | 2-6 | https://www.boardgamegeek.com/boardgame/3359/anagrams |
+| [Broken Picture Phone](https://www.brokenpicturephone.com/) | [Drawphone](https://drawphone.tannerkrewson.com/) | | |
+| [Pretend you're Xyzzy](https://pyx-2.pretendyoure.xyz/zy/game.jsp) (Cards Against Humanity) | [All Bad Cards](https://allbad.cards/) or [Massive Decks](https://md.rereadgames.com/#new) or [Cards of Personality](https://cardsofpersonality.com) | 4-30 | https://www.boardgamegeek.com/boardgame/50381/cards-against-humanity |
+| [Drawception](https://drawception.com/) | | | |
+| [Insider](https://insider-online.herokuapp.com/) | | 4-8 | https://www.boardgamegeek.com/boardgame/206051/insider |
+| [Jackbox party games](https://jackboxgames.com/) ([instructions for playing remotely](https://jackboxgames.com/how-to-play-jackbox-games-with-friends-and-family-remotely/)) | | Depends on game purchased | |
+| [Just 1](https://just1.herokuapp.com/#) | [One Word](https://oneword.games/) | 3+ | https://www.boardgamegeek.com/boardgame/254640/just-one |
+| [Skribbl](https://skribbl.io/) (Pictionary) | [Sketchful](https://sketchful.io/) or [Gartic](https://gartic.io/) | 3+ | https://www.boardgamegeek.com/boardgame/2281/pictionary |
+| [Quack Stanley](https://quackstanley.net/) | | | |
+| [Scattergories](https://boardgames.gigalixirapp.com/) | [Scattergories](https://swellgarfo.com/scattergories/) or [Categories with Friends](https://categories-with-friends.herokuapp.com/) | 2+ | https://www.boardgamegeek.com/boardgame/2381/scattergories |
+| [Scrabble](https://www.isc.ro/) | | 2-4 | https://www.boardgamegeek.com/boardgame/320/scrabble |
+| [Skull](https://skull.games/) | | 3-6 | https://www.boardgamegeek.com/boardgame/92415/skull |
+| [Taboo](https://boardgames.gigalixirapp.com/) | [Taboo](https://playtaboo.com/) or [Fishbowl](https://fishbowl-game.com/) | 4-10 | https://www.boardgamegeek.com/boardgame/1111/taboo |
+| [Uno](https://play.unofreak.com/) | | 2+ | https://www.boardgamegeek.com/boardgame/2223/uno |
 
 ### Easy to explain
 These games are easy to explain but best if someone knows the game already.
