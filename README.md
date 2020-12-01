@@ -133,7 +133,7 @@ These games are best if at least one person knows the game already and can expla
 - [Virtual Pub Quiz](https://virtualquiz.app/) (create or play pub quizzes)
 
 ## Other ideas
-- [Remote-friendly games](remote-friendly-print-games.md) - a list of games that work well over the internet without using a game site
+- [Tabletop games that can be adapted for remote play](remote-friendly-print-games.md)
 - [Freeze-dried Game Pack](https://kevan.org/fdgp/) - a collection of games that use common components and can be explained in less than 100 words
 - [Improv games for videoconferencing](https://github.com/pamelafox/improvlists/blob/master/collections/Improv-games-for-video-conferencing.md)
 - [The Wiki Game](https://www.thewikigame.com/)
