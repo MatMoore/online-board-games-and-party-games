@@ -102,7 +102,7 @@ These games are best if at least one person knows the game already and can expla
 | [The Crucible](https://thecrucible.online/) (Keyforge) || 2 | [https://boardgamegeek.com/boardgame/257501/keyforge-call-archons](https://boardgamegeek.com/boardgame/257501/keyforge-call-archons)|
 | [The Iron Throne](https://theironthrone.net/) (Lord of the Rings: The Card Game) | [Gemp LotR](http://www.gempukku.com/gemp-lotr/) | 1-2 | [https://boardgamegeek.com/boardgame/77423/lord-rings-card-game](https://boardgamegeek.com/boardgame/77423/lord-rings-card-game)|
 | [One Night Ultimate Werewolf](https://netgames.io/games/onu-werewolf/) || 4-10 | [https://boardgamegeek.com/boardgame/147949/one-night-ultimate-werewolf](https://boardgamegeek.com/boardgame/147949/one-night-ultimate-werewolf)
-| [Outpost 18]([Outpost 18](https://outpost18.netlify.com/)) || 2 | [https://boardgamegeek.com/boardgame/278142/outpost-18](https://boardgamegeek.com/boardgame/278142/outpost-18)|
+| [Outpost 18](https://outpost18.netlify.com/) || 2 | [https://boardgamegeek.com/boardgame/278142/outpost-18](https://boardgamegeek.com/boardgame/278142/outpost-18)|
 | [Governer of Poker 3](https://www.governorofpoker.com/games/governor-of-poker-3/) | [Blockchain Poker](https://blockchain.poker/#/) | 2+ ||
 | [The Resistance](http://www.theresistanceplus.com/) | | 5-10 | [https://boardgamegeek.com/boardgame/41114/resistance](https://boardgamegeek.com/boardgame/41114/resistance) |
 | [Conquer Club](https://www.conquerclub.com/) (Risk) | | 2-6 | [https://boardgamegeek.com/boardgame/181/risk](https://boardgamegeek.com/boardgame/181/risk)|
