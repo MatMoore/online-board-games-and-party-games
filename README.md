@@ -78,16 +78,22 @@ These games are best if at least one person knows the game already and can expla
 | Game | Alternatives | Player count | Board Game Geek Page |
 | --- | --- | --- | --- |
 |[18xx](http://www.rr18xx.com/) | [Board 18](https://dev2.board18.org/) | 2-6 | [https://boardgamegeek.com/boardgame/423/1856-railroading-upper-canada-1856](https://boardgamegeek.com/boardgame/423/1856-railroading-upper-canada-1856)|
+| [7 Wonders Duel](https://sevenee.mattle.online) || 2 ||
 |[Acquire](https://acquire.tlstyer.com/)|| 2-6 | [https://boardgamegeek.com/boardgame/5/acquire](https://boardgamegeek.com/boardgame/5/acquire)|
 |[Advanced Civilization](http://civ.rol-play.com/ahciv/login.php?app=horde)|| 2-8 | [http://civ.rol-play.com/ahciv/login.php?app=horde](http://civ.rol-play.com/ahciv/login.php?app=horde)|
 |[Play Agricola](https://playagricola.com/)|| 1-5 | [https://boardgamegeek.com/boardgame/31260/agricola](https://boardgamegeek.com/boardgame/31260/agricola)|
+| [Jinteki](https://www.jinteki.net/) (Android: Netrunner) || 2 ||
 |[Avalon](https://avalon.fun/) | [Avalon: The Resistance Online](https://avalongame.online/) | 5-10 | [https://boardgamegeek.com/boardgame/128882/resistance-avalon](https://boardgamegeek.com/boardgame/128882/resistance-avalon)|
 |[Azul](https://azee.mattle.online/)| [Rojo](http://boardwebgames.com/rojomulti/) | 2-4 | [https://boardgamegeek.com/boardgame/230802/azul](https://boardgamegeek.com/boardgame/230802/azul)|
+|[DailyGammon](http://dailygammon.com) (Backgammon)|| 2 | |
+|[Battleship](http://en.battleship-game.org/)|| 2 ||
 |[Brass](http://brass.orderofthehammer.com/)|| 2-4 | [https://boardgamegeek.com/boardgame/224517/brass-birmingham](https://boardgamegeek.com/boardgame/224517/brass-birmingham) |
 |[Bridge](http://www.bridgebase.com)|| 4 | [https://boardgamegeek.com/boardgame/2181/bridge](https://boardgamegeek.com/boardgame/2181/bridge)|
+|[Chess with video chat](https://rootshirechess.glitch.me/) | [Lichess](https://lichess.org/), [Chess.com](https://www.chess.com/) | 2 ||
 |[Citadels of Achiles](http://ciudadelas.net/content) (Citadels)|| 2-8 | [https://boardgamegeek.com/boardgame/478/citadels](https://boardgamegeek.com/boardgame/478/citadels)|
 | [Codenames](https://boardgames.gigalixirapp.com/) | [Codenames](https://captnemo.in/codenames/), [Horsepaste](https://www.horsepaste.com/), [Kodenames](https://jhil.github.io/kodenames/), [KodeNames](https://ninjabunny.github.io/KodeNames/), [Codenames](https://www.thecompletelysurrounded.com/games/code/) | 2-8 | [https://boardgamegeek.com/boardgame/178900/codenames](https://boardgamegeek.com/boardgame/178900/codenames)|
 | [Codenames Pictures](https://codenames.dport.me/) | | 2-8 | [https://boardgamegeek.com/boardgame/198773/codenames-pictures](https://boardgamegeek.com/boardgame/198773/codenames-pictures) |
+| [Codenames Green](https://www.codenamesgreen.com/) (Cooperative version of codenames) || 2 ||
 | [Coup](https://coup.thebrown.net/) | [Chicken Koup](https://www.chickenkoup.com/) | 2-6 | [https://boardgamegeek.com/boardgame/131357/coup](https://boardgamegeek.com/boardgame/131357/coup) |
 | [Deception: Murder in Hong Kong](https://ninjabunny.github.io/mihk/) | | 4-12 | [https://boardgamegeek.com/boardgame/156129/deception-murder-hong-kong](https://boardgamegeek.com/boardgame/156129/deception-murder-hong-kong)|
 | [Decrypto](https://whoawhoa.github.io/decrypto/) || 3-8 | [https://boardgamegeek.com/boardgame/225694/decrypto](https://boardgamegeek.com/boardgame/225694/decrypto)
@@ -96,12 +102,16 @@ These games are best if at least one person knows the game already and can expla
 | [Egyptian Ratscrew](https://playcards.club/) || 2-10 | [https://boardgamegeek.com/boardgame/15712/egyptian-ratscrew](https://boardgamegeek.com/boardgame/15712/egyptian-ratscrew)
 | [Epic Mafia](https://epicmafia.com/home) | [Werewolf Online](https://werewolv.es/), [Town of Salem](https://www.blankmediagames.com/), [Mafia.gg](https://mafia.gg/) | 6+ | |
 |[Swords and Ravens](https://swordsandravens.net/) (Game of Thrones Board Game)|| 3-6 | [https://boardgamegeek.com/boardgame/103343/game-thrones-board-game-second-edition](https://boardgamegeek.com/boardgame/103343/game-thrones-board-game-second-edition)|
+| [Online Go Server](https://online-go.com/) || 2 ||
 | [Hanabi](https://hanabi.cards/) | | 2-5 | [https://boardgamegeek.com/boardgame/98778/hanabi](https://boardgamegeek.com/boardgame/98778/hanabi)
+|[Inhuman Conditions](http://interrogation.ftwinston.com/)|| 2 ||
 | [Innovation](https://innovation.isotropic.org/) || 2-4 | [https://boardgamegeek.com/boardgame/63888/innovation](https://boardgamegeek.com/boardgame/63888/innovation)|
 | [Keep talking and nobody explodes](https://keeptalkinggame.com/) (one person plays the game at a time, the others just need the manual) | | 2+ | |
 | [The Crucible](https://thecrucible.online/) (Keyforge) || 2 | [https://boardgamegeek.com/boardgame/257501/keyforge-call-archons](https://boardgamegeek.com/boardgame/257501/keyforge-call-archons)|
+|[Jikogu](https://jigoku.online/) (Legend of the Five Rings Living Card Game)|| 2 ||
 | [The Iron Throne](https://theironthrone.net/) (Lord of the Rings: The Card Game) | [Gemp LotR](http://www.gempukku.com/gemp-lotr/) | 1-2 | [https://boardgamegeek.com/boardgame/77423/lord-rings-card-game](https://boardgamegeek.com/boardgame/77423/lord-rings-card-game)|
 | [One Night Ultimate Werewolf](https://netgames.io/games/onu-werewolf/) || 4-10 | [https://boardgamegeek.com/boardgame/147949/one-night-ultimate-werewolf](https://boardgamegeek.com/boardgame/147949/one-night-ultimate-werewolf)
+| [Onitama](http://onitama.lannysport.net/)|| 2 ||
 | [Outpost 18](https://outpost18.netlify.com/) || 2 | [https://boardgamegeek.com/boardgame/278142/outpost-18](https://boardgamegeek.com/boardgame/278142/outpost-18)|
 | [Governer of Poker 3](https://www.governorofpoker.com/games/governor-of-poker-3/) | [Blockchain Poker](https://blockchain.poker/#/) | 2+ ||
 | [The Resistance](http://www.theresistanceplus.com/) | | 5-10 | [https://boardgamegeek.com/boardgame/41114/resistance](https://boardgamegeek.com/boardgame/41114/resistance) |
@@ -112,22 +122,10 @@ These games are best if at least one person knows the game already and can expla
 | [Shadow Hunters](http://www.shadowhunters.live/) | | 4-8 | [https://boardgamegeek.com/boardgame/24068/shadow-hunters](https://boardgamegeek.com/boardgame/24068/shadow-hunters)
 | [Spendee](https://spendee.mattle.online/welcome) (Splendor) | | 2-4 | [https://boardgamegeek.com/boardgame/148228/splendor](https://boardgamegeek.com/boardgame/148228/splendor) |
 | [Spyfall](https://www.spyfall.app/) | [Spyfall](https://spyfall.adrianocola.com/) | 3-8 | [https://boardgamegeek.com/boardgame/166384/spyfall](https://boardgamegeek.com/boardgame/166384/spyfall) |
+| [Tak](http://playtak.com/) || 2 ||
 | [Online Terra Mystica](https://terra.snellman.net/) | | 2-5 | [https://boardgamegeek.com/boardgame/120677/terra-mystica](https://boardgamegeek.com/boardgame/120677/terra-mystica)|
 | [Telewave](https://gjeuken.github.io/telewave/) (Wavelength) | | 2-12 | [https://boardgamegeek.com/boardgame/262543/wavelength](https://boardgamegeek.com/boardgame/262543/wavelength)|
-
-## Free two player games
-- [Chess with video chat](https://rootshirechess.glitch.me/) or [Chess.com](https://www.chess.com/)
-- [Online Go Server](https://online-go.com/)
-- [Codenames Green](https://www.codenamesgreen.com/) (Cooperative version of codenames)
-- [Jinteki](https://www.jinteki.net/) (Android: Netrunner)
-- [7 Wonders Duel](https://sevenee.mattle.online)
-- [DailyGammon](http://dailygammon.com) (Backgammon)
-- [Battleship](http://en.battleship-game.org/)
-- [Inhuman Conditions](http://interrogation.ftwinston.com/)
-- [Jikogu](https://jigoku.online/) (Legend of the Five Rings Living Card Game)
-- [Onitama](http://onitama.lannysport.net/)
-- [Tak](http://playtak.com/)
-- [Yahtzee](https://cardgames.io/yahtzee/)
+| [Yahtzee](https://cardgames.io/yahtzee/) || 2+ ||
 
 ## Trivia games
 - [Protobowl](https://protobowl.com/)
