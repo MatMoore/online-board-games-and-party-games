@@ -44,13 +44,14 @@ These websites contain multiple games.
 | [Tabletopia](https://tabletopia.com/) | Free to play | Simulates game pieces, not rules. Controls are a bit fiddly.
 | [Deck of Cards](https://deck.of.cards/) | Free to play | Simulates a deck of cards without rules. |
 | [Playingcards.io](http://playingcards.io/game/standard-deck) | Free to play | Simulates a deck of cards without rules. Cards can be customised |
+| [Roll20](https://roll20.net/) | Free to play | Simulates dice rolls, maps and character sheets for role playing games |
 | [Random Noun Generator](https://kevan.org/games/randomnoun) | Free tool | |
 | [Board game clock](https://clock.mattle.online/) | Free tool | |
 | [Google Slides](https://docs.google.com/presentation/d/1lf0O4y_WJ5p9v4u_LykQrApLXJGO5vnbgBJoXtfo1To/edit) (or [Google Drawings](https://docs.google.com/drawings)) | Free collaboration tool | A low tech solution that can work if the game isn't available anywhere else. |
 
 
 ## Free group games
-### Very simple
+### Simple games
 These games are easy to understand even if nobody has played before.
 
 | Game | Alternatives | Player count | Board Game Geek Page |
@@ -71,53 +72,48 @@ These games are easy to understand even if nobody has played before.
 | [Taboo](https://boardgames.gigalixirapp.com/) | [Taboo](https://playtaboo.com/) or [Fishbowl](https://fishbowl-game.com/) | 4-10 | https://www.boardgamegeek.com/boardgame/1111/taboo |
 | [Uno](https://play.unofreak.com/) | | 2+ | https://www.boardgamegeek.com/boardgame/2223/uno |
 
-### Easy to explain
-These games are easy to explain but best if someone knows the game already.
+### Other games
+These games are best if at least one person knows the game already and can explain the rules.
 
-- [Epic Mafia](https://epicmafia.com/home) or [Werewolf Online](https://werewolv.es/) or [Town of Salem](https://www.blankmediagames.com/) or [Mafia.gg](https://mafia.gg/)
-- [One Night Ultimate Werewolf](https://netgames.io/games/onu-werewolf/)
-- [Shadow Hunters](http://www.shadowhunters.live/)
-- [Governer of Poker 3](https://www.governorofpoker.com/games/governor-of-poker-3/) or [Blockchain Poker](https://blockchain.poker/#/)
-- [Keep talking and nobody explodes](https://keeptalkinggame.com/) (one person plays the game at a time, the others just need the manual)
-- [Codenames](https://boardgames.gigalixirapp.com/) or [Codenames](https://captnemo.in/codenames/) or [Horsepaste](https://www.horsepaste.com/) or [Kodenames](https://jhil.github.io/kodenames/) or [KodeNames](https://ninjabunny.github.io/KodeNames/) or [Codenames](https://www.thecompletelysurrounded.com/games/code/)
-- [Codenames Pictures](https://codenames.dport.me/)
-- [Spyfall](https://www.spyfall.app/) or [Spyfall](https://spyfall.adrianocola.com/)
-- [Avalon](https://avalon.fun/) or [Avalon: The Resistance Online](https://avalongame.online/)
-- [The Resistance](http://www.theresistanceplus.com/)
-- [Coup](https://coup.thebrown.net/) or [Chicken Koup](https://www.chickenkoup.com/)
-- [Spendee](https://spendee.mattle.online/welcome) (Splendor)
-- [Telewave](https://gjeuken.github.io/telewave/) (Wavelength)
-- [Hanabi](https://hanabi.cards/)
-- [Conquer Club](https://www.conquerclub.com/) (Risk)
-- [Deception: Murder in Hong Kong](https://ninjabunny.github.io/mihk/)
-- [Set](https://setwithfriends.com/)
-- [Decrypto](https://whoawhoa.github.io/decrypto/)
-- [Egyptian Ratscrew](https://playcards.club/)
-
-### Know the rules first
-These games have more complicated rules that will take some time to explain to new players.
-
-- [Secret Hitler](https://secret.ethanl.ee/) or [Secret Hitler](https://secrethitler.io/)
-- [Dominion.games](https://dominion.games/)
-- [The Iron Throne](https://theironthrone.net/) or [Gemp LotR](http://www.gempukku.com/gemp-lotr/) (Lord of the Rings Living Card Game)
-- [Colonist](https://colonist.io/) or [Catan Universe](https://catanuniverse.com/game/) (Settlers of Catan)
-- [The Crucible](https://thecrucible.online/) (Keyforge)
-- [18xx](http://www.rr18xx.com/) or [Board 18](https://dev2.board18.org/)
-- [Play Agricola](https://playagricola.com/)
-- [Roll20](https://roll20.net/) (Dungeons & Dragons)
-- [Outpost 18](https://outpost18.netlify.com/)
-- [Swords and Ravens](https://swordsandravens.net/) (Game of Thrones Board Game)
-- [Online Terra Mystica](https://terra.snellman.net/)
-- [Brass](http://brass.orderofthehammer.com/)
-- [Diplomacy](https://www.playdiplomacy.com/) or [Backstabbr](https://www.backstabbr.com/)
-- [Innovation](https://innovation.isotropic.org/)
-- [Bridge](http://www.bridgebase.com)
-- [Citadels of Achiles](http://ciudadelas.net/content)
-- [Azul](https://azee.mattle.online/)
-- [Acquire](https://acquire.tlstyer.com/)
-- [Advanced Civilization](http://civ.rol-play.com/ahciv/login.php?horde_logout_token=kv1N0-WAvzDvlBixm1FXdf_PpMw&app=horde)
-- [Shadow Hunters](http://www.shadowhunters.live/)
-- [Rojo](http://boardwebgames.com/rojomulti/) (Azul)
+| Game | Alternatives | Player count | Board Game Geek Page |
+| --- | --- | --- | --- |
+|[18xx](http://www.rr18xx.com/) or [Board 18](https://dev2.board18.org/)|| 2-6 | [https://boardgamegeek.com/boardgame/423/1856-railroading-upper-canada-1856](https://boardgamegeek.com/boardgame/423/1856-railroading-upper-canada-1856)|
+|[Acquire](https://acquire.tlstyer.com/)|| 2-6 | [https://boardgamegeek.com/boardgame/5/acquire](https://boardgamegeek.com/boardgame/5/acquire)|
+|[Advanced Civilization](http://civ.rol-play.com/ahciv/login.php?app=horde)|| 2-8 | [http://civ.rol-play.com/ahciv/login.php?app=horde](http://civ.rol-play.com/ahciv/login.php?app=horde)|
+|[Play Agricola](https://playagricola.com/)|| 1-5 | [https://boardgamegeek.com/boardgame/31260/agricola](https://boardgamegeek.com/boardgame/31260/agricola)|
+|[Avalon](https://avalon.fun/) | [Avalon: The Resistance Online](https://avalongame.online/) | 5-10 | [https://boardgamegeek.com/boardgame/128882/resistance-avalon](https://boardgamegeek.com/boardgame/128882/resistance-avalon)|
+|[Azul](https://azee.mattle.online/)| [Rojo](http://boardwebgames.com/rojomulti/) | 2-4 | [https://boardgamegeek.com/boardgame/230802/azul](https://boardgamegeek.com/boardgame/230802/azul)|
+|[Brass](http://brass.orderofthehammer.com/)|| 2-4 | [https://boardgamegeek.com/boardgame/224517/brass-birmingham](https://boardgamegeek.com/boardgame/224517/brass-birmingham) |
+|[Bridge](http://www.bridgebase.com)|| 4 | [https://boardgamegeek.com/boardgame/2181/bridge](https://boardgamegeek.com/boardgame/2181/bridge)|
+|[Citadels of Achiles](http://ciudadelas.net/content) (Citadels)|| 2-8 | [https://boardgamegeek.com/boardgame/478/citadels](https://boardgamegeek.com/boardgame/478/citadels)|
+| [Codenames](https://boardgames.gigalixirapp.com/) | [Codenames](https://captnemo.in/codenames/), [Horsepaste](https://www.horsepaste.com/), [Kodenames](https://jhil.github.io/kodenames/), [KodeNames](https://ninjabunny.github.io/KodeNames/), [Codenames](https://www.thecompletelysurrounded.com/games/code/) | 2-8 | [https://boardgamegeek.com/boardgame/178900/codenames](https://boardgamegeek.com/boardgame/178900/codenames)|
+| [Codenames Pictures](https://codenames.dport.me/) | | 2-8 | [https://boardgamegeek.com/boardgame/198773/codenames-pictures](https://boardgamegeek.com/boardgame/198773/codenames-pictures) |
+| [Coup](https://coup.thebrown.net/) | [Chicken Koup](https://www.chickenkoup.com/) | 2-6 | [https://boardgamegeek.com/boardgame/131357/coup](https://boardgamegeek.com/boardgame/131357/coup) |
+| [Deception: Murder in Hong Kong](https://ninjabunny.github.io/mihk/) | | 4-12 | [https://boardgamegeek.com/boardgame/156129/deception-murder-hong-kong](https://boardgamegeek.com/boardgame/156129/deception-murder-hong-kong)|
+| [Decrypto](https://whoawhoa.github.io/decrypto/) || 3-8 | [https://boardgamegeek.com/boardgame/225694/decrypto](https://boardgamegeek.com/boardgame/225694/decrypto)
+| [Diplomacy](https://www.playdiplomacy.com/) | [Backstabbr](https://www.backstabbr.com/) | 2-7 | [https://boardgamegeek.com/boardgame/483/diplomacy](https://boardgamegeek.com/boardgame/483/diplomacy)|
+| [Dominion.games](https://dominion.games/) || 2-4 | [https://boardgamegeek.com/boardgame/36218/dominion](https://boardgamegeek.com/boardgame/36218/dominion)|
+| [Egyptian Ratscrew](https://playcards.club/) || 2-10 | [https://boardgamegeek.com/boardgame/15712/egyptian-ratscrew](https://boardgamegeek.com/boardgame/15712/egyptian-ratscrew)
+| [Epic Mafia](https://epicmafia.com/home) | [Werewolf Online](https://werewolv.es/), [Town of Salem](https://www.blankmediagames.com/), [Mafia.gg](https://mafia.gg/) | 6+ | |
+|[Swords and Ravens](https://swordsandravens.net/) (Game of Thrones Board Game)|| 3-6 | [https://boardgamegeek.com/boardgame/103343/game-thrones-board-game-second-edition](https://boardgamegeek.com/boardgame/103343/game-thrones-board-game-second-edition)|
+| [Hanabi](https://hanabi.cards/) | | 2-5 | [https://boardgamegeek.com/boardgame/98778/hanabi](https://boardgamegeek.com/boardgame/98778/hanabi)
+| [Innovation](https://innovation.isotropic.org/) || 2-4 | [https://boardgamegeek.com/boardgame/63888/innovation](https://boardgamegeek.com/boardgame/63888/innovation)|
+| [Keep talking and nobody explodes](https://keeptalkinggame.com/) (one person plays the game at a time, the others just need the manual) | | 2+ | |
+| [The Crucible](https://thecrucible.online/) (Keyforge) || 2 | [https://boardgamegeek.com/boardgame/257501/keyforge-call-archons](https://boardgamegeek.com/boardgame/257501/keyforge-call-archons)|
+| [The Iron Throne](https://theironthrone.net/) (Lord of the Rings: The Card Game) | [Gemp LotR](http://www.gempukku.com/gemp-lotr/) | 1-2 | [https://boardgamegeek.com/boardgame/77423/lord-rings-card-game](https://boardgamegeek.com/boardgame/77423/lord-rings-card-game)|
+| [One Night Ultimate Werewolf](https://netgames.io/games/onu-werewolf/) || 4-10 | [https://boardgamegeek.com/boardgame/147949/one-night-ultimate-werewolf](https://boardgamegeek.com/boardgame/147949/one-night-ultimate-werewolf)
+| [Outpost 18]([Outpost 18](https://outpost18.netlify.com/)) || 2 | [https://boardgamegeek.com/boardgame/278142/outpost-18](https://boardgamegeek.com/boardgame/278142/outpost-18)|
+| [Governer of Poker 3](https://www.governorofpoker.com/games/governor-of-poker-3/) | [Blockchain Poker](https://blockchain.poker/#/) | 2+ ||
+| [The Resistance](http://www.theresistanceplus.com/) | | 5-10 | [https://boardgamegeek.com/boardgame/41114/resistance](https://boardgamegeek.com/boardgame/41114/resistance) |
+| [Conquer Club](https://www.conquerclub.com/) (Risk) | | 2-6 | [https://boardgamegeek.com/boardgame/181/risk](https://boardgamegeek.com/boardgame/181/risk)|
+| [Secret Hitler](https://secret.ethanl.ee/) | [Secret Hitler](https://secrethitler.io/) | 5-10 | [https://boardgamegeek.com/boardgame/188834/secret-hitler](https://boardgamegeek.com/boardgame/188834/secret-hitler) |
+| [Set](https://setwithfriends.com/) | | 1-12 | [https://boardgamegeek.com/boardgame/1198/set](https://boardgamegeek.com/boardgame/1198/set)|
+| [Colonist](https://colonist.io/) or [Catan Universe](https://catanuniverse.com/game/) (Settlers of Catan) || 3-4 | [https://boardgamegeek.com/boardgame/13/catan](https://boardgamegeek.com/boardgame/13/catan) |
+| [Shadow Hunters](http://www.shadowhunters.live/) | | 4-8 | [https://boardgamegeek.com/boardgame/24068/shadow-hunters](https://boardgamegeek.com/boardgame/24068/shadow-hunters)
+| [Spendee](https://spendee.mattle.online/welcome) (Splendor) | | 2-4 | [https://boardgamegeek.com/boardgame/148228/splendor](https://boardgamegeek.com/boardgame/148228/splendor) |
+| [Spyfall](https://www.spyfall.app/) | [Spyfall](https://spyfall.adrianocola.com/) | 3-8 | [https://boardgamegeek.com/boardgame/166384/spyfall](https://boardgamegeek.com/boardgame/166384/spyfall) |
+| [Online Terra Mystica](https://terra.snellman.net/) | | 2-5 | [https://boardgamegeek.com/boardgame/120677/terra-mystica](https://boardgamegeek.com/boardgame/120677/terra-mystica)|
+| [Telewave](https://gjeuken.github.io/telewave/) (Wavelength) | | 2-12 | [https://boardgamegeek.com/boardgame/262543/wavelength](https://boardgamegeek.com/boardgame/262543/wavelength)|
 
 ## Free two player games
 - [Chess with video chat](https://rootshirechess.glitch.me/) or [Chess.com](https://www.chess.com/)
