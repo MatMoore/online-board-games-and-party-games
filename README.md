@@ -14,7 +14,7 @@ Many of these games assume you are using a seperate tool to chat. Here are some 
 These websites contain multiple games.
 
 | Platform       | Type     | Usability notes |
-| :------------- | :----------: | -----------: |
+| :------------- | :---------- | :----------- |
 |  [Board Game Arena](https://boardgamearena.com/) | Free to play (some games require the host to have a paid membership) | Starting a game is a bit unintuitive. |
 | [Mattle](https://mattle.online/) | Free to play | Iconography can be confusing on some games. |
 | [Happy Meeple](https://www.happymeeple.com/en/) | Free to play, with limits (you need in-game currency, but this is generated automatically at regular intervals) | Focuses on solo and 2 player games |
