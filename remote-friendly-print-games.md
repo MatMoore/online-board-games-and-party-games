@@ -1,4 +1,4 @@
-# Games that can be adapted for remote play
+# Tabletop games that can be adapted for remote play
 
 ## Tips
 
