@@ -13,41 +13,40 @@ Many of these games assume you are using a seperate tool to chat. Here are some 
 ## Platforms
 These websites contain multiple games.
 
-- [Board Game Arena](https://boardgamearena.com/) (freemium)
-- [Vassal](http://www.vassalengine.org/) (free)
-- [Boiteajeux](http://www.boiteajeux.net/) (free)
-- [Yucata](https://www.yucata.de/en) (free)
-- [Boardgame core](http://play.boardgamecore.net) (free)
-- [Super Duper Games](http://superdupergames.org/) (free)
-- [Netgames.io](https://netgames.io/games/) (free)
-- [BrettspielWelt](http://www.brettspielwelt.de/Spiele/) (free)
-- [Free Board Games](https://www.freeboardgames.org/) (free)
-- [Games by Email](http://gamesbyemail.com/) (free)
-- [BoardGamePlay](https://boardgameplay.com/)
-- [Aso Brain Games](http://games.asobrain.com/)
-- [Spiel by Web](http://spielbyweb.com/)
-- [Sloth Ninja](https://www.slothninja.com/)
-- [Happy Meeple](https://www.happymeeple.com/en/)
-- [MabiWeb](http://www.mabiweb.com/)
-- [WarGear](http://www.wargear.net/)
-- [It's your turn](https://itsyourturn.com/)
-- [Board Games Online](https://www.michaelschacht.net/pbm/modules.php?name=Game_Info)
-- [Mattle](https://mattle.online/)
-- [Triqqy](https://triqqy.com/)
-- [Playoq](https://www.playok.com/)
-- [Trickster Cards](https://www.trickstercards.com/)
-- [Boardgames](https://boardgames.gigalixirapp.com/)
-
-## Game pieces
-These simulate game pieces but not the rules of the game.
-
-- [Tabletop simulator](https://www.tabletopsimulator.com/) (paid)
-- [Tabletopia](https://tabletopia.com/) (freemium)
-- [Deck of Cards](https://deck.of.cards/)
-- [Playingcards.io](http://playingcards.io/game/standard-deck) (allows customising the deck)
-- [Random Noun Generator](https://kevan.org/games/randomnoun)
-- [Board game clock](https://clock.mattle.online/)
-- [Abstract Games in Google Slides](https://docs.google.com/presentation/d/1lf0O4y_WJ5p9v4u_LykQrApLXJGO5vnbgBJoXtfo1To/edit) ([Google Drawings](https://docs.google.com/drawings/u/0/create) can also be used this way)
+| Platform       | Type     | Usability notes |
+| :------------- | :----------: | -----------: |
+|  [Board Game Arena](https://boardgamearena.com/) | Free to play (some games require the host to have a paid membership) | Starting a game is a bit unintuitive. |
+| [Mattle](https://mattle.online/) | Free to play | Iconography can be confusing on some games. |
+| [Happy Meeple](https://www.happymeeple.com/en/) | Free to play, with limits (you need in-game currency, but this is generated automatically at regular intervals) | Focuses on solo and 2 player games |
+| [Boiteajeux](http://www.boiteajeux.net/) | Free to play ||
+| [Boardgame core](http://play.boardgamecore.net) | Free to play ||
+| [Super Duper Games](http://superdupergames.org/) | Free to play | Not recommended for real time play.|
+| [Netgames.io](https://netgames.io/games/) | Free to play ||
+| [Yucata](https://www.yucata.de/en) | Free to play ||
+| [Boardgame core](http://play.boardgamecore.net) | Free to play ||
+| [BrettspielWelt](http://www.brettspielwelt.de/Spiele/) | Free to play ||
+| [Free Board Games](https://www.freeboardgames.org/) | Free to play ||
+| [Games by Email](http://gamesbyemail.com/) | Free to play ||
+| [BoardGamePlay](https://boardgameplay.com/) | Free to play ||
+| [Aso Brain Games](http://games.asobrain.com/) | Free to play ||
+| [Spiel by Web](http://spielbyweb.com/) | Free to play ||
+| [Sloth Ninja](https://www.slothninja.com/) | Free to play ||
+| [MabiWeb](http://www.mabiweb.com/) | Free to play ||
+| [WarGear](http://www.wargear.net/) | Free to play ||
+| [It's your turn](https://itsyourturn.com/) | Free to play ||
+| [Board Games Online](https://www.michaelschacht.net/pbm/modules.php?name=Game_Info) | Free to play ||
+| [Triqqy](https://triqqy.com/) | Free to play ||
+| [Playoq](https://www.playok.com/) | Free to play ||
+| [Trickster Cards](https://www.trickstercards.com/) | Free to play ||
+| [Boardgames](https://boardgames.gigalixirapp.com/) | Free to play ||
+| [Vassal](http://www.vassalengine.org/) | Open source game engine | Requires a lot of setup |
+| [Tabletop simulator](https://www.tabletopsimulator.com/) | Paid | Simulates game pieces, not rules. Controls are very fiddly. Supports VR headsets. |
+| [Tabletopia](https://tabletopia.com/) | Free to play | Simulates game pieces, not rules. Controls are a bit fiddly.
+| [Deck of Cards](https://deck.of.cards/) | Free to play | Simulates a deck of cards without rules. |
+| [Playingcards.io](http://playingcards.io/game/standard-deck) | Free to play | Simulates a deck of cards without rules. Cards can be customised |
+| [Random Noun Generator](https://kevan.org/games/randomnoun) | Free tool | |
+| [Board game clock](https://clock.mattle.online/) | Free tool | |
+| [Google Slides](https://docs.google.com/presentation/d/1lf0O4y_WJ5p9v4u_LykQrApLXJGO5vnbgBJoXtfo1To/edit) (or [Google Drawings](https://docs.google.com/drawings)) | Free collaboration tool | A low tech solution that can work if the game isn't available anywhere else. |
 
 
 ## Free group games
