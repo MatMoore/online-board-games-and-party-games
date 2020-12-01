@@ -77,7 +77,7 @@ These games are best if at least one person knows the game already and can expla
 
 | Game | Alternatives | Player count | Board Game Geek Page |
 | --- | --- | --- | --- |
-|[18xx](http://www.rr18xx.com/) or [Board 18](https://dev2.board18.org/)|| 2-6 | [https://boardgamegeek.com/boardgame/423/1856-railroading-upper-canada-1856](https://boardgamegeek.com/boardgame/423/1856-railroading-upper-canada-1856)|
+|[18xx](http://www.rr18xx.com/) | [Board 18](https://dev2.board18.org/) | 2-6 | [https://boardgamegeek.com/boardgame/423/1856-railroading-upper-canada-1856](https://boardgamegeek.com/boardgame/423/1856-railroading-upper-canada-1856)|
 |[Acquire](https://acquire.tlstyer.com/)|| 2-6 | [https://boardgamegeek.com/boardgame/5/acquire](https://boardgamegeek.com/boardgame/5/acquire)|
 |[Advanced Civilization](http://civ.rol-play.com/ahciv/login.php?app=horde)|| 2-8 | [http://civ.rol-play.com/ahciv/login.php?app=horde](http://civ.rol-play.com/ahciv/login.php?app=horde)|
 |[Play Agricola](https://playagricola.com/)|| 1-5 | [https://boardgamegeek.com/boardgame/31260/agricola](https://boardgamegeek.com/boardgame/31260/agricola)|
