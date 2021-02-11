@@ -91,7 +91,7 @@ These games are best if at least one person knows the game already and can expla
 |[Bridge](http://www.bridgebase.com)|| 4 | [https://boardgamegeek.com/boardgame/2181/bridge](https://boardgamegeek.com/boardgame/2181/bridge)|
 |[Chess with video chat](https://rootshirechess.glitch.me/) | [Lichess](https://lichess.org/), [Chess.com](https://www.chess.com/) | 2 ||
 |[Citadels of Achiles](http://ciudadelas.net/content) (Citadels)|| 2-8 | [https://boardgamegeek.com/boardgame/478/citadels](https://boardgamegeek.com/boardgame/478/citadels)|
-| [Codenames](https://boardgames.gigalixirapp.com/) | [Codenames](https://captnemo.in/codenames/), [Horsepaste](https://www.horsepaste.com/), [Kodenames](https://jhil.github.io/kodenames/), [KodeNames](https://ninjabunny.github.io/KodeNames/), [Codenames](https://www.thecompletelysurrounded.com/games/code/) | 2-8 | [https://boardgamegeek.com/boardgame/178900/codenames](https://boardgamegeek.com/boardgame/178900/codenames)|
+ [Codenames](https://codenames.game/) (Official adaptation: includes all variants, languages and word packs) | [Codenames](https://captnemo.in/codenames/), [Horsepaste](https://www.horsepaste.com/), [Kodenames](https://jhil.github.io/kodenames/), [KodeNames](https://ninjabunny.github.io/KodeNames/), [Codenames](https://www.thecompletelysurrounded.com/games/code/) | 2-8 | [https://boardgamegeek.com/boardgame/178900/codenames](https://boardgamegeek.com/boardgame/178900/codenames)|
 | [Codenames Pictures](https://codenames.dport.me/) | | 2-8 | [https://boardgamegeek.com/boardgame/198773/codenames-pictures](https://boardgamegeek.com/boardgame/198773/codenames-pictures) |
 | [Codenames Green](https://www.codenamesgreen.com/) (Cooperative version of codenames) || 2 ||
 | [Coup](https://coup.thebrown.net/) | [Chicken Koup](https://www.chickenkoup.com/) | 2-6 | [https://boardgamegeek.com/boardgame/131357/coup](https://boardgamegeek.com/boardgame/131357/coup) |
@@ -123,8 +123,8 @@ These games are best if at least one person knows the game already and can expla
 | [Spendee](https://spendee.mattle.online/welcome) (Splendor) | | 2-4 | [https://boardgamegeek.com/boardgame/148228/splendor](https://boardgamegeek.com/boardgame/148228/splendor) |
 | [Spyfall](https://www.spyfall.app/) | [Spyfall](https://spyfall.adrianocola.com/) | 3-8 | [https://boardgamegeek.com/boardgame/166384/spyfall](https://boardgamegeek.com/boardgame/166384/spyfall) |
 | [Tak](http://playtak.com/) || 2 ||
-| [Online Terra Mystica](https://terra.snellman.net/) | | 2-5 | [https://boardgamegeek.com/boardgame/120677/terra-mystica](https://boardgamegeek.com/boardgame/120677/terra-mystica)|
-| [Telewave](https://gjeuken.github.io/telewave/) (Wavelength) | | 2-12 | [https://boardgamegeek.com/boardgame/262543/wavelength](https://boardgamegeek.com/boardgame/262543/wavelength)|
+| [Online Terra Mystica](https://terra.snellman.net/) | | 2-5 | [https://boardgamegeek.com/boardgame/120677/terra-mystica](https://boardgamegeek.com/boardgame/120677/terra-mystica) |
+| [Longwave](https://longwave.web.app/) (Wavelength) | [Telewave](https://gjeuken.github.io/telewave/) | 2-12 | [https://boardgamegeek.com/boardgame/262543/wavelength](https://boardgamegeek.com/boardgame/262543/wavelength) |
 | [Yahtzee](https://cardgames.io/yahtzee/) || 2+ ||
 
 ## Trivia games
