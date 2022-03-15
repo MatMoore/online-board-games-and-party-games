@@ -114,6 +114,7 @@ These games are best if at least one person knows the game already and can expla
 | [Onitama](http://onitama.lannysport.net/)|| 2 ||
 | [Outpost 18](https://outpost18.netlify.com/) || 2 | [https://boardgamegeek.com/boardgame/278142/outpost-18](https://boardgamegeek.com/boardgame/278142/outpost-18)|
 | [Governer of Poker 3](https://www.governorofpoker.com/games/governor-of-poker-3/) | [Blockchain Poker](https://blockchain.poker/#/) | 2+ ||
+| [Railroad Ink](https://ondras.github.io/rri/) | | 1-6 | [Geek Page](https://boardgamegeek.com/boardgame/245654/railroad-ink-deep-blue-edition) |
 | [The Resistance](http://www.theresistanceplus.com/) | | 5-10 | [https://boardgamegeek.com/boardgame/41114/resistance](https://boardgamegeek.com/boardgame/41114/resistance) |
 | [Conquer Club](https://www.conquerclub.com/) (Risk) | | 2-6 | [https://boardgamegeek.com/boardgame/181/risk](https://boardgamegeek.com/boardgame/181/risk)|
 | [Secret Hitler](https://secret.ethanl.ee/) | [Secret Hitler](https://secrethitler.io/) | 5-10 | [https://boardgamegeek.com/boardgame/188834/secret-hitler](https://boardgamegeek.com/boardgame/188834/secret-hitler) |
