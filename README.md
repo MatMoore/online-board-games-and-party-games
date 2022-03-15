@@ -64,6 +64,7 @@ These games are easy to understand even if nobody has played before.
 | [Insider](https://insider-online.herokuapp.com/) | | 4-8 | https://www.boardgamegeek.com/boardgame/206051/insider |
 | [Jackbox party games](https://jackboxgames.com/) ([instructions for playing remotely](https://jackboxgames.com/how-to-play-jackbox-games-with-friends-and-family-remotely/)) | | Depends on game purchased | |
 | [Just 1](https://just1.herokuapp.com/#) | [One Word](https://oneword.games/) | 3+ | https://www.boardgamegeek.com/boardgame/254640/just-one |
+| [Monikers](https://www.playmonikers.com/) | | 4+ | [Geek Page](https://boardgamegeek.com/boardgame/156546/monikers) |
 | [Skribbl](https://skribbl.io/) (Pictionary) | [Sketchful](https://sketchful.io/) or [Gartic](https://gartic.io/) | 3+ | https://www.boardgamegeek.com/boardgame/2281/pictionary |
 | [Quack Stanley](https://quackstanley.net/) | | | |
 | [Scattergories](https://boardgames.gigalixirapp.com/) | [Scattergories](https://swellgarfo.com/scattergories/) or [Categories with Friends](https://categories-with-friends.herokuapp.com/) | 2+ | https://www.boardgamegeek.com/boardgame/2381/scattergories |
