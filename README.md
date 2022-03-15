@@ -38,7 +38,7 @@ These websites contain multiple games.
 | [Triqqy](https://triqqy.com/) | Free to play ||
 | [Playoq](https://www.playok.com/) | Free to play ||
 | [Trickster Cards](https://www.trickstercards.com/) | Free to play ||
-| [Boardgames](https://boardgames.gigalixirapp.com/) | Free to play ||
+| [Games.horse](https://games.horse/) | Free to play ||
 | [Vassal](http://www.vassalengine.org/) | Open source game engine | Requires a lot of setup |
 | [Tabletop simulator](https://www.tabletopsimulator.com/) | Paid | Simulates game pieces, not rules. Controls are very fiddly. Supports VR headsets. |
 | [Tabletopia](https://tabletopia.com/) | Free to play | Simulates game pieces, not rules. Controls are a bit fiddly.
