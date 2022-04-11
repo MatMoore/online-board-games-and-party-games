@@ -140,6 +140,7 @@ These games are best if at least one person knows the game already and can expla
 - [Freeze-dried Game Pack](https://kevan.org/fdgp/) - a collection of games that use common components and can be explained in less than 100 words
 - [Improv games for videoconferencing](https://github.com/pamelafox/improvlists/blob/master/collections/Improv-games-for-video-conferencing.md)
 - [The Wiki Game](https://www.thewikigame.com/)
+- [Lies game](https://liesgame.com/)
 
 ## Contribute to this list
 1. [Edit this file](https://github.com/MatMoore/online-board-games-and-party-games/edit/master/README.md)
