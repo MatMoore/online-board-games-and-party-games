@@ -73,6 +73,7 @@ These games are easy to understand even if nobody has played before.
 | [Skull](https://skull.games/) | | 3-6 | https://www.boardgamegeek.com/boardgame/92415/skull |
 | [Taboo](https://boardgames.gigalixirapp.com/) | [Taboo](https://playtaboo.com/) or [Fishbowl](https://fishbowl-game.com/) | 4-10 | https://www.boardgamegeek.com/boardgame/1111/taboo |
 | [Uno](https://play.unofreak.com/) | | 2+ | https://www.boardgamegeek.com/boardgame/2223/uno |
+| [Richup.io](https://richup.io/) (alternative to Monopoly) | | 2+ | |
 
 ### Other games
 These games are best if at least one person knows the game already and can explain the rules.
