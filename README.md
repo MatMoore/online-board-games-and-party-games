@@ -103,7 +103,7 @@ These games are best if at least one person knows the game already and can expla
 | [Diplomacy](https://www.playdiplomacy.com/) | [Backstabbr](https://www.backstabbr.com/) | 2-7 | [https://boardgamegeek.com/boardgame/483/diplomacy](https://boardgamegeek.com/boardgame/483/diplomacy)|
 | [Dominion.games](https://dominion.games/) || 2-4 | [https://boardgamegeek.com/boardgame/36218/dominion](https://boardgamegeek.com/boardgame/36218/dominion)|
 | [Egyptian Ratscrew](https://playcards.club/) || 2-10 | [https://boardgamegeek.com/boardgame/15712/egyptian-ratscrew](https://boardgamegeek.com/boardgame/15712/egyptian-ratscrew)
-| [Epic Mafia](https://epicmafia.com/home) | [Werewolf Online](https://werewolv.es/), [Town of Salem](https://www.blankmediagames.com/), [Mafia.gg](https://mafia.gg/) | 6+ | |
+| [Ultimafia](https://ultimafia.com/) | [Werewolf Online](https://werewolv.es/), [Town of Salem](https://www.blankmediagames.com/), [Mafia.gg](https://mafia.gg/) | 6+ | |
 |[Swords and Ravens](https://swordsandravens.net/) (Game of Thrones Board Game)|| 3-6 | [https://boardgamegeek.com/boardgame/103343/game-thrones-board-game-second-edition](https://boardgamegeek.com/boardgame/103343/game-thrones-board-game-second-edition)|
 | [Online Go Server](https://online-go.com/) || 2 ||
 | [Hanabi](https://hanabi.cards/) | | 2-5 | [https://boardgamegeek.com/boardgame/98778/hanabi](https://boardgamegeek.com/boardgame/98778/hanabi)
