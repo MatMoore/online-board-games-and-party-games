@@ -17,6 +17,7 @@ These websites contain multiple games.
 | :------------- | :---------- | :----------- |
 |  [Board Game Arena](https://boardgamearena.com/) | Free to play (some games require the host to have a paid membership) | Starting a game is a bit unintuitive. |
 | [Mattle](https://mattle.online/) | Free to play | Iconography can be confusing on some games. |
+| [PsyCat Games](https://psycatgames.com/app/) | Free to play | Lots of online party games. |
 | [Happy Meeple](https://www.happymeeple.com/en/) | Free to play, with limits (you need in-game currency, but this is generated automatically at regular intervals) | Focuses on solo and 2 player games |
 | [Boiteajeux](http://www.boiteajeux.net/) | Free to play ||
 | [Boardgame core](http://play.boardgamecore.net) | Free to play ||
@@ -67,6 +68,11 @@ These games are easy to understand even if nobody has played before.
 | [Skull](https://skull.games/) | | 3-6 | https://www.boardgamegeek.com/boardgame/92415/skull |
 | [Taboo](https://boardgames.gigalixirapp.com/) | [Taboo](https://playtaboo.com/) or [Fishbowl](https://fishbowl-game.com/) | 4-10 | https://www.boardgamegeek.com/boardgame/1111/taboo |
 | [Uno](https://play.unofreak.com/) | | 2+ | https://www.boardgamegeek.com/boardgame/2223/uno |
+| [Bad Cards](https://bad.cards/) | | 3+ | |
+| [Never Have I Ever](https://neverhaveiever.app/) | | 2+ | |
+| [Most Likely To](https://psycatgames.com/app/most-likely-to/) | | 3-20 | |
+| [Spin the Bottle](https://spinthebottle.app/) | | 2+ | |
+| [Truth or Dare](https://truthordare.app/) | | 2+ | |
 | [Richup.io](https://richup.io/) (alternative to Monopoly) | | 2+ | |
 
 ### Other games
@@ -125,6 +131,7 @@ These games are best if at least one person knows the game already and can expla
 - [Protobowl](https://protobowl.com/)
 - [QuizWitz](https://www.quizwitz.com/en/party)
 - [Virtual Pub Quiz](https://virtualquiz.app/) (create or play pub quizzes)
+- [Charades](https://psycatgames.com/app/charades/)
 
 ## Other ideas
 - [Tabletop games that can be adapted for remote play](remote-friendly-print-games.md)
