@@ -65,7 +65,6 @@ These games are easy to understand even if nobody has played before.
 | [Just 1](https://just1.herokuapp.com/#) | [One Word](https://oneword.games/) | 3+ | https://www.boardgamegeek.com/boardgame/254640/just-one |
 | [Skribbl](https://skribbl.io/) (Pictionary) | [Sketchful](https://sketchful.io/) or [Gartic](https://gartic.io/) | 3+ | https://www.boardgamegeek.com/boardgame/2281/pictionary |
 | [Quack Stanley](https://quackstanley.net/) | | | |
-| [Powerline.io](https://powerline.io/) (Snake) | | | |
 | [Scrabble](https://www.isc.ro/) | | 2-4 | https://www.boardgamegeek.com/boardgame/320/scrabble |
 | [Skull](https://skull.games/) | | 3-6 | https://www.boardgamegeek.com/boardgame/92415/skull |
 | [Taboo](https://boardgames.gigalixirapp.com/) | [Taboo](https://playtaboo.com/) or [Fishbowl](https://fishbowl-game.com/) | 4-10 | https://www.boardgamegeek.com/boardgame/1111/taboo |
@@ -81,7 +80,6 @@ These games are best if at least one person knows the game already and can expla
 
 | Game | Alternatives | Player count | Board Game Geek Page |
 | --- | --- | --- | --- |
-|[2048](https://play2048.co/) || 1 ||
 |[7 Wonders Duel](https://sevenee.mattle.online) || 2 ||
 |[Acquire](https://acquire.tlstyer.com/)|| 2-6 | [https://boardgamegeek.com/boardgame/5/acquire](https://boardgamegeek.com/boardgame/5/acquire)|
 |[Advanced Civilization](http://civ.rol-play.com/ahciv/login.php?app=horde)|| 2-8 | [http://civ.rol-play.com/ahciv/login.php?app=horde](http://civ.rol-play.com/ahciv/login.php?app=horde)|
