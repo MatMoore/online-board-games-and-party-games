@@ -17,6 +17,7 @@ These websites contain multiple games.
 | :------------- | :---------- | :----------- |
 |  [Board Game Arena](https://boardgamearena.com/) | Free to play (some games require the host to have a paid membership) | Starting a game is a bit unintuitive. |
 | [Mattle](https://mattle.online/) | Free to play | Iconography can be confusing on some games. |
+| [PsyCat Games](https://psycatgames.com/app/) | Free to play | Lots of online party games. |
 | [Happy Meeple](https://www.happymeeple.com/en/) | Free to play, with limits (you need in-game currency, but this is generated automatically at regular intervals) | Focuses on solo and 2 player games |
 | [Boiteajeux](http://www.boiteajeux.net/) | Free to play ||
 | [Boardgame core](http://play.boardgamecore.net) | Free to play ||
@@ -57,22 +58,21 @@ These games are easy to understand even if nobody has played before.
 
 | Game | Alternatives | Player count | Board Game Geek Page |
 | --- | --- | --- | --- |
-| [A Fake Artist Goes to New-York](https://fake-artist.herokuapp.com/) | | 5-10 | https://www.boardgamegeek.com/boardgame/135779/fake-artist-goes-new-york |
-| [Anagram thief](http://anagrams.jonmarkgo.com/) (anagrams) | | 2-6 | https://www.boardgamegeek.com/boardgame/3359/anagrams |
 | [Boggle](http://ewordchallenge.scienceontheweb.net/) | [Serpentine](https://serpentinegame.com/), [Wordmine](https://www.cyberspaces.app/wordmine)| 2+ | [https://boardgamegeek.com/boardgame/1293/boggle](https://boardgamegeek.com/boardgame/1293/boggle) |
 | [Broken Picture Phone](https://www.brokenpicturephone.com/) | [Drawphone](https://drawphone.tannerkrewson.com/), [Drawception](https://drawception.com/), [Out of Context](https://www.outofcontext.party/) | | |
-| [Pretend you're Xyzzy](https://pyx-2.pretendyoure.xyz/zy/game.jsp) (Cards Against Humanity) | [All Bad Cards](https://allbad.cards/) or [Massive Decks](https://md.rereadgames.com/#new) or [Cards of Personality](https://cardsofpersonality.com) | 4-30 | https://www.boardgamegeek.com/boardgame/50381/cards-against-humanity |
-| [Insider](https://insider-online.herokuapp.com/) | | 4-8 | https://www.boardgamegeek.com/boardgame/206051/insider |
+| [Pretend you're Xyzzy](https://pyx-1.pretendyoure.xyz/zy/game.jsp) (Cards Against Humanity) | [All Bad Cards](https://bad.cards/) or [Massive Decks](https://md.rereadgames.com/#new) or [Cards of Personality](https://www.cardsofpersonality.com/) | 4-30 | https://www.boardgamegeek.com/boardgame/50381/cards-against-humanity |
 | [Jackbox party games](https://jackboxgames.com/) ([instructions for playing remotely](https://jackboxgames.com/how-to-play-jackbox-games-with-friends-and-family-remotely/)) | | Depends on game purchased | |
 | [Just 1](https://just1.herokuapp.com/#) | [One Word](https://oneword.games/) | 3+ | https://www.boardgamegeek.com/boardgame/254640/just-one |
-| [Monikers](https://www.playmonikers.com/) | | 4+ | [Geek Page](https://boardgamegeek.com/boardgame/156546/monikers) |
 | [Skribbl](https://skribbl.io/) (Pictionary) | [Sketchful](https://sketchful.io/) or [Gartic](https://gartic.io/) | 3+ | https://www.boardgamegeek.com/boardgame/2281/pictionary |
 | [Quack Stanley](https://quackstanley.net/) | | | |
-| [Scattergories](https://boardgames.gigalixirapp.com/) | [Scattergories](https://swellgarfo.com/scattergories/) or [Categories with Friends](https://categories-with-friends.herokuapp.com/) | 2+ | https://www.boardgamegeek.com/boardgame/2381/scattergories |
 | [Scrabble](https://www.isc.ro/) | | 2-4 | https://www.boardgamegeek.com/boardgame/320/scrabble |
 | [Skull](https://skull.games/) | | 3-6 | https://www.boardgamegeek.com/boardgame/92415/skull |
 | [Taboo](https://boardgames.gigalixirapp.com/) | [Taboo](https://playtaboo.com/) or [Fishbowl](https://fishbowl-game.com/) | 4-10 | https://www.boardgamegeek.com/boardgame/1111/taboo |
 | [Uno](https://play.unofreak.com/) | | 2+ | https://www.boardgamegeek.com/boardgame/2223/uno |
+| [Never Have I Ever](https://neverhaveiever.app/) | | 2+ | |
+| [Most Likely To](https://psycatgames.com/app/most-likely-to/) | | 3-20 | |
+| [Spin the Bottle](https://spinthebottle.app/) | | 2+ | |
+| [Truth or Dare](https://truthordare.app/) | | 2+ | |
 | [Richup.io](https://richup.io/) (alternative to Monopoly) | | 2+ | |
 
 ### Other games
@@ -80,11 +80,9 @@ These games are best if at least one person knows the game already and can expla
 
 | Game | Alternatives | Player count | Board Game Geek Page |
 | --- | --- | --- | --- |
-|[18xx](http://www.rr18xx.com/) | [Board 18](https://dev2.board18.org/) | 2-6 | [https://boardgamegeek.com/boardgame/423/1856-railroading-upper-canada-1856](https://boardgamegeek.com/boardgame/423/1856-railroading-upper-canada-1856)|
-| [7 Wonders Duel](https://sevenee.mattle.online) || 2 ||
+|[7 Wonders Duel](https://sevenee.mattle.online) || 2 ||
 |[Acquire](https://acquire.tlstyer.com/)|| 2-6 | [https://boardgamegeek.com/boardgame/5/acquire](https://boardgamegeek.com/boardgame/5/acquire)|
 |[Advanced Civilization](http://civ.rol-play.com/ahciv/login.php?app=horde)|| 2-8 | [http://civ.rol-play.com/ahciv/login.php?app=horde](http://civ.rol-play.com/ahciv/login.php?app=horde)|
-|[Play Agricola](https://playagricola.com/)|| 1-5 | [https://boardgamegeek.com/boardgame/31260/agricola](https://boardgamegeek.com/boardgame/31260/agricola)|
 | [Jinteki](https://www.jinteki.net/) (Android: Netrunner) || 2 ||
 |[Avalon](https://avalon.fun/) | [Avalon: The Resistance Online](https://avalongame.online/) | 5-10 | [https://boardgamegeek.com/boardgame/128882/resistance-avalon](https://boardgamegeek.com/boardgame/128882/resistance-avalon)|
 |[Azul](https://azee.mattle.online/)| [Rojo](http://boardwebgames.com/rojomulti/) | 2-4 | [https://boardgamegeek.com/boardgame/230802/azul](https://boardgamegeek.com/boardgame/230802/azul)|
@@ -114,7 +112,6 @@ These games are best if at least one person knows the game already and can expla
 |[Jikogu](https://jigoku.online/) (Legend of the Five Rings Living Card Game)|| 2 ||
 | [The Iron Throne](https://theironthrone.net/) (Lord of the Rings: The Card Game) | [Gemp LotR](http://www.gempukku.com/gemp-lotr/) | 1-2 | [https://boardgamegeek.com/boardgame/77423/lord-rings-card-game](https://boardgamegeek.com/boardgame/77423/lord-rings-card-game)|
 | [One Night Ultimate Werewolf](https://netgames.io/games/onu-werewolf/) || 4-10 | [https://boardgamegeek.com/boardgame/147949/one-night-ultimate-werewolf](https://boardgamegeek.com/boardgame/147949/one-night-ultimate-werewolf)
-| [Onitama](http://onitama.lannysport.net/)|| 2 ||
 | [Outpost 18](https://outpost18.netlify.com/) || 2 | [https://boardgamegeek.com/boardgame/278142/outpost-18](https://boardgamegeek.com/boardgame/278142/outpost-18)|
 | [Governer of Poker 3](https://www.governorofpoker.com/games/governor-of-poker-3/) | [Blockchain Poker](https://blockchain.poker/#/) | 2+ ||
 | [Railroad Ink](https://ondras.github.io/rri/) | | 1-6 | [Geek Page](https://boardgamegeek.com/boardgame/245654/railroad-ink-deep-blue-edition) |
@@ -123,7 +120,6 @@ These games are best if at least one person knows the game already and can expla
 | [Secret Hitler](https://secret.ethanl.ee/) | [Secret Hitler](https://secrethitler.io/) | 5-10 | [https://boardgamegeek.com/boardgame/188834/secret-hitler](https://boardgamegeek.com/boardgame/188834/secret-hitler) |
 | [Set](https://setwithfriends.com/) | | 1-12 | [https://boardgamegeek.com/boardgame/1198/set](https://boardgamegeek.com/boardgame/1198/set)|
 | [Colonist](https://colonist.io/) or [Catan Universe](https://catanuniverse.com/game/) (Settlers of Catan) || 3-4 | [https://boardgamegeek.com/boardgame/13/catan](https://boardgamegeek.com/boardgame/13/catan) |
-| [Shadow Hunters](http://www.shadowhunters.live/) | | 4-8 | [https://boardgamegeek.com/boardgame/24068/shadow-hunters](https://boardgamegeek.com/boardgame/24068/shadow-hunters)
 | [Spendee](https://spendee.mattle.online/welcome) (Splendor) | | 2-4 | [https://boardgamegeek.com/boardgame/148228/splendor](https://boardgamegeek.com/boardgame/148228/splendor) |
 | [Spyfall](https://www.spyfall.app/) | [Spyfall](https://spyfall.adrianocola.com/) | 3-8 | [https://boardgamegeek.com/boardgame/166384/spyfall](https://boardgamegeek.com/boardgame/166384/spyfall) |
 | [Tak](http://playtak.com/) || 2 ||
@@ -135,6 +131,7 @@ These games are best if at least one person knows the game already and can expla
 - [Protobowl](https://protobowl.com/)
 - [QuizWitz](https://www.quizwitz.com/en/party)
 - [Virtual Pub Quiz](https://virtualquiz.app/) (create or play pub quizzes)
+- [Charades](https://psycatgames.com/app/charades/)
 
 ## Other ideas
 - [Tabletop games that can be adapted for remote play](remote-friendly-print-games.md)
