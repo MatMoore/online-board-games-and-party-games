@@ -7,7 +7,6 @@ Many of these games assume you are using a seperate tool to chat. Here are some 
 - [Discord](https://discordapp.com/) - multiple text/voice channels that you can join and leave at any time
 - [Google Hangouts](https://hangouts.google.com/) - a temporary video meeting with a shareable link, no need to install anything, but requires a google account to set up
 - [Jitsi](https://meet.jit.si/) - similar to Google Hangouts but no account required
-- [House party](https://houseparty.com/) comes with a few games built in
 - [Zoom](https://zoom.us/) - a temporary video meeting, easy for other people to join without signing up, but you may need to restart the call every 40 minutes
 
 ## Platforms
@@ -17,7 +16,6 @@ These websites contain multiple games.
 | :------------- | :---------- | :----------- |
 |  [Board Game Arena](https://boardgamearena.com/) | Free to play (some games require the host to have a paid membership) | Starting a game is a bit unintuitive. |
 | [Mattle](https://mattle.online/) | Free to play | Iconography can be confusing on some games. |
-| [Happy Meeple](https://www.happymeeple.com/en/) | Free to play, with limits (you need in-game currency, but this is generated automatically at regular intervals) | Focuses on solo and 2 player games |
 | [Boiteajeux](http://www.boiteajeux.net/) | Free to play ||
 | [Boardgame core](http://play.boardgamecore.net) | Free to play ||
 | [Super Duper Games](http://superdupergames.org/) | Free to play | Not recommended for real time play.|
