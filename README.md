@@ -133,6 +133,8 @@ These games are best if at least one person knows the game already and can expla
 - [Protobowl](https://protobowl.com/)
 - [QuizWitz](https://www.quizwitz.com/en/party)
 - [Virtual Pub Quiz](https://virtualquiz.app/) (create or play pub quizzes)
+- [Kahoot!](https://kahoot.com/)
+- [Connections](https://connections.swellgarfo.com/)
 
 ## Other ideas
 - [Tabletop games that can be adapted for remote play](remote-friendly-print-games.md)
@@ -140,6 +142,7 @@ These games are best if at least one person knows the game already and can expla
 - [Improv games for videoconferencing](https://github.com/pamelafox/improvlists/blob/master/collections/Improv-games-for-video-conferencing.md)
 - [The Wiki Game](https://www.thewikigame.com/)
 - [Lies game](https://liesgame.com/)
+- [GeoGuessr](https://www.geoguessr.com/)
 
 ## Contribute to this list
 1. [Edit this file](https://github.com/MatMoore/online-board-games-and-party-games/edit/master/README.md)
