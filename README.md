@@ -80,7 +80,7 @@ These games are best if at least one person knows the game already and can expla
 
 | Game | Alternatives | Player count | Board Game Geek Page |
 | --- | --- | --- | --- |
-|[18xx](http://www.rr18xx.com/) | [Board 18](https://dev2.board18.org/) | 2-6 | [https://boardgamegeek.com/boardgame/423/1856-railroading-upper-canada-1856](https://boardgamegeek.com/boardgame/423/1856-railroading-upper-canada-1856)|
+|[18xx.Games](https://18xx.games) | [RR18xx](http://www.rr18xx.com/) | [Board 18](https://dev2.board18.org/) | 2-6 | [https://boardgamegeek.com/boardgame/423/1856-railroading-upper-canada-1856](https://boardgamegeek.com/boardgame/423/1856-railroading-upper-canada-1856)|
 | [7 Wonders Duel](https://sevenee.mattle.online) || 2 ||
 |[Acquire](https://acquire.tlstyer.com/)|| 2-6 | [https://boardgamegeek.com/boardgame/5/acquire](https://boardgamegeek.com/boardgame/5/acquire)|
 |[Advanced Civilization](http://civ.rol-play.com/ahciv/login.php?app=horde)|| 2-8 | [http://civ.rol-play.com/ahciv/login.php?app=horde](http://civ.rol-play.com/ahciv/login.php?app=horde)|
