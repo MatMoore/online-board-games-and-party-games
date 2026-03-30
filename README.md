@@ -128,6 +128,7 @@ These games are best if at least one person knows the game already and can expla
 | [Online Terra Mystica](https://terra.snellman.net/) | | 2-5 | [https://boardgamegeek.com/boardgame/120677/terra-mystica](https://boardgamegeek.com/boardgame/120677/terra-mystica) |
 | [Longwave](https://longwave.web.app/) (Wavelength) | [Telewave](https://gjeuken.github.io/telewave/) | 2-12 | [https://boardgamegeek.com/boardgame/262543/wavelength](https://boardgamegeek.com/boardgame/262543/wavelength) |
 | [Yahtzee](https://cardgames.io/yahtzee/) || 2+ ||
+| [Letter Jam](https://letterjam.game/) || 2-6 | [https://boardgamegeek.com/boardgame/275467/letter-jam](https://boardgamegeek.com/boardgame/275467/letter-jam)|
 
 ## Trivia games
 - [Protobowl](https://protobowl.com/)
