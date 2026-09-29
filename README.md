@@ -62,6 +62,7 @@ These games are easy to understand even if nobody has played before.
 | [Pretend you're Xyzzy](https://pyx-2.pretendyoure.xyz/zy/game.jsp) (Cards Against Humanity) | [All Bad Cards](https://allbad.cards/) or [Massive Decks](https://md.rereadgames.com/#new) or [Cards of Personality](https://cardsofpersonality.com) | 4-30 | https://www.boardgamegeek.com/boardgame/50381/cards-against-humanity |
 | [Insider](https://insider-online.herokuapp.com/) | | 4-8 | https://www.boardgamegeek.com/boardgame/206051/insider |
 | [Jackbox party games](https://jackboxgames.com/) ([instructions for playing remotely](https://jackboxgames.com/how-to-play-jackbox-games-with-friends-and-family-remotely/)) | | Depends on game purchased | |
+| [Question Parties](https://questionparties.com/) (Would You Rather, Truth or Dare, Never Have I Ever) | | 2+ | |
 | [Just 1](https://just1.herokuapp.com/#) | [One Word](https://oneword.games/) | 3+ | https://www.boardgamegeek.com/boardgame/254640/just-one |
 | [Monikers](https://www.playmonikers.com/) | | 4+ | [Geek Page](https://boardgamegeek.com/boardgame/156546/monikers) |
 | [Skribbl](https://skribbl.io/) (Pictionary) | [Sketchful](https://sketchful.io/) or [Gartic](https://gartic.io/) | 3+ | https://www.boardgamegeek.com/boardgame/2281/pictionary |
