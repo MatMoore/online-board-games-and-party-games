@@ -48,6 +48,7 @@ These websites contain multiple games.
 | [Google Slides](https://docs.google.com/presentation/d/1lf0O4y_WJ5p9v4u_LykQrApLXJGO5vnbgBJoXtfo1To/edit) (or [Google Drawings](https://docs.google.com/drawings)) | Free collaboration tool | A low tech solution that can work if the game isn't available anywhere else. |
 | [Gidd.io](https://gidd.io) | Free to play | Multiple Games like UNO, Yatzy, Categories and GeoGuess|
 
+| [Open Party Lab](https://open-party-lab.onrender.com) | Free to play; open-source and self-hostable | Shared host screen and phone browser controllers; scan a QR code to join. Remote groups need screen sharing. |
 
 ## Free group games
 ### Simple games
