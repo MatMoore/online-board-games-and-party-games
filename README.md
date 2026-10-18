@@ -59,8 +59,8 @@ These games are easy to understand even if nobody has played before.
 | [Anagram thief](http://anagrams.jonmarkgo.com/) (anagrams) | | 2-6 | https://www.boardgamegeek.com/boardgame/3359/anagrams |
 | [Boggle](http://ewordchallenge.scienceontheweb.net/) | [Serpentine](https://serpentinegame.com/), [Wordmine](https://www.cyberspaces.app/wordmine)| 2+ | [https://boardgamegeek.com/boardgame/1293/boggle](https://boardgamegeek.com/boardgame/1293/boggle) |
 | [Broken Picture Phone](https://www.brokenpicturephone.com/) | [Drawphone](https://drawphone.tannerkrewson.com/), [Drawception](https://drawception.com/), [Out of Context](https://www.outofcontext.party/) | | |
-| [Pretend you're Xyzzy](https://pyx-2.pretendyoure.xyz/zy/game.jsp) (Cards Against Humanity) | [All Bad Cards](https://allbad.cards/) or [Massive Decks](https://md.rereadgames.com/#new) or [Cards of Personality](https://cardsofpersonality.com) | 4-30 | https://www.boardgamegeek.com/boardgame/50381/cards-against-humanity |
-| [Insider](https://insider-online.herokuapp.com/) | | 4-8 | https://www.boardgamegeek.com/boardgame/206051/insider |
+| [Pretend you're Xyzzy](https://pyx-2.pretendyoure.xyz/zy/game.jsp) (Cards Against Humanity) | [All Bad Cards](https://allbad.cards/) or [Massive Decks](https://md.rereadgames.com/#new) or [Cards of Personality](https://cardsofpersonality.com) or [Box of Cards](https://boxof.cards/en/) | 4-30 | https://www.boardgamegeek.com/boardgame/50381/cards-against-humanity |
+| [Insider](https://insider-online.herokuapp.com/) | | 4-8 | https://sowww.boardgamegeek.com/boardgame/206051/insider |
 | [Jackbox party games](https://jackboxgames.com/) ([instructions for playing remotely](https://jackboxgames.com/how-to-play-jackbox-games-with-friends-and-family-remotely/)) | | Depends on game purchased | |
 | [Just 1](https://just1.herokuapp.com/#) | [One Word](https://oneword.games/) | 3+ | https://www.boardgamegeek.com/boardgame/254640/just-one |
 | [Monikers](https://www.playmonikers.com/) | | 4+ | [Geek Page](https://boardgamegeek.com/boardgame/156546/monikers) |
