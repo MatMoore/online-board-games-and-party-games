@@ -47,7 +47,7 @@ These websites contain multiple games.
 | [Board game clock](https://clock.mattle.online/) | Free tool | |
 | [Google Slides](https://docs.google.com/presentation/d/1lf0O4y_WJ5p9v4u_LykQrApLXJGO5vnbgBJoXtfo1To/edit) (or [Google Drawings](https://docs.google.com/drawings)) | Free collaboration tool | A low tech solution that can work if the game isn't available anywhere else. |
 | [Gidd.io](https://gidd.io) | Free to play | Multiple Games like UNO, Yatzy, Categories and GeoGuess|
-| [Foony](https://foony.com/) | Free to play | Dozens of games like Ludo, Chess, Carrom, Spades, and a Connect 4-style 4 in a Row. Friends join from a link with no account. |
+| [Foony](https://foony.com/) | Free to play | Ludo, Chess, Carrom, and Spades, plus UNO-style, Yahtzee-style, and Connect 4-style games. Friends join from a link with no account. |
 
 
 ## Free group games
