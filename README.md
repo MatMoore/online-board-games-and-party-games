@@ -90,6 +90,7 @@ These games are best if at least one person knows the game already and can expla
 |[Battleship](http://en.battleship-game.org/)|| 2 ||
 |[Brass](http://brass.orderofthehammer.com/)|| 2-4 | [https://boardgamegeek.com/boardgame/224517/brass-birmingham](https://boardgamegeek.com/boardgame/224517/brass-birmingham) |
 |[Bridge](http://www.bridgebase.com)|| 4 | [https://boardgamegeek.com/boardgame/2181/bridge](https://boardgamegeek.com/boardgame/2181/bridge)|
+| [CheckersClub](https://checkersclub.com/) (Draughts) | | 2 | |
 |[Chess with video chat](https://rootshirechess.glitch.me/) | [Lichess](https://lichess.org/), [Chess.com](https://www.chess.com/) | 2 ||
 |[Citadels of Achiles](http://ciudadelas.net/content) (Citadels)|| 2-8 | [https://boardgamegeek.com/boardgame/478/citadels](https://boardgamegeek.com/boardgame/478/citadels)|
  [Codenames](https://codenames.game/) (Official adaptation: includes all variants, languages and word packs) | [Codenames](https://captnemo.in/codenames/), [Horsepaste](https://www.horsepaste.com/), [Kodenames](https://jhil.github.io/kodenames/), [KodeNames](https://ninjabunny.github.io/KodeNames/), [Codenames](https://www.thecompletelysurrounded.com/games/code/) | 2-8 | [https://boardgamegeek.com/boardgame/178900/codenames](https://boardgamegeek.com/boardgame/178900/codenames)|
