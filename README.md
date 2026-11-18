@@ -66,6 +66,7 @@ These games are easy to understand even if nobody has played before.
 | [Monikers](https://www.playmonikers.com/) | | 4+ | [Geek Page](https://boardgamegeek.com/boardgame/156546/monikers) |
 | [Skribbl](https://skribbl.io/) (Pictionary) | [Sketchful](https://sketchful.io/) or [Gartic](https://gartic.io/) | 3+ | https://www.boardgamegeek.com/boardgame/2281/pictionary |
 | [Quack Stanley](https://quackstanley.net/) | | | |
+| [Puffer Party](https://pufferparty.org/) (Timed category game with private rooms) | | 2-16 | |
 | [Scattergories](https://boardgames.gigalixirapp.com/) | [Scattergories](https://swellgarfo.com/scattergories/) or [Categories with Friends](https://categories-with-friends.herokuapp.com/) | 2+ | https://www.boardgamegeek.com/boardgame/2381/scattergories |
 | [Scrabble](https://www.isc.ro/) | | 2-4 | https://www.boardgamegeek.com/boardgame/320/scrabble |
 | [Skull](https://skull.games/) | | 3-6 | https://www.boardgamegeek.com/boardgame/92415/skull |
